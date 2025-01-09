@@ -1,0 +1,39 @@
+payload:
+  # /*ApplicationService*/
+  # bootstrapcdn
+  - DOMAIN-SUFFIX,maxcdn.bootstrapcdn.com # A CDN platform for loading website resources. Took too long to respond for unknown reason.
+  # google
+  - DOMAIN-SUFFIX,cable.ua5v.com # Google Authenticator, authorize passkey by phone/tablet to login a account on another device. Currently Blocked by a firewall you may know.
+  - DOMAIN-SUFFIX,h5games.usercontent.goog # Google Play Games. Image Resources Loading.
+  # /*Blog*/
+  # v2rayssr
+  - DOMAIN-SUFFIX,v2rayssr.com # Location Verification.
+  # /*Game*/
+  # mariorun
+  - DOMAIN-SUFFIX,api.supermariorun.com # Location Verification.
+  # pokemmo
+  - DOMAIN-SUFFIX,loginserver.pokemmo.com # Location Verification.
+  - DOMAIN-SUFFIX,loginserver.sea.pokemmo.com # Location Verification.
+  # pokemonmasters
+  - DOMAIN-SUFFIX,3b8d4a717682c1cc5839b50bc93667cf.baas.nintendo.com # Location Verification.
+  # pokemonunite
+  - DOMAIN-SUFFIX,gamesvr1.pokemon-unitepgame.com # Location Verification.
+  # /*Media*/
+  # apple-shazam
+  - DOMAIN-SUFFIX,shazam.com # Recognize music nearby.
+  # colamanga
+  - DOMAIN-SUFFIX,colamanga.com # A comic sharing website. Unlock some invisible resources.
+  # /*SoftwareMarket*/
+  # apkcombo
+  - DOMAIN-SUFFIX,apkflash.com # Location Verification. APKCombo Official Website.
+  - DOMAIN-SUFFIX,cdn.apkflash.net # Location Verification. Software Resources Downloading.
+  - DOMAIN-SUFFIX,cdn.androidcombo.com # Location Verification. Software Resources Downloading.
+  # /*SoftwareProvider*/
+  # navicat
+  - DOMAIN-SUFFIX,download3.navicat.com # Navicat Premium Software Updating. Blocked by something for unknown reason.
+  # spacedesk
+  - DOMAIN-SUFFIX,spacedesk.net # Spacedesk Official Website, by datronicsoft. Took too long to respond for unknown reason.
+  # v2rayseNodeTool
+  - DOMAIN-SUFFIX,v2rayse.com # Currently Blocked by a firewall you may know.
+  - DOMAIN-SUFFIX,wiki.metacubex.one # Mihomo Official Wiki. Currently Blocked by a firewall you may know.
+  - DOMAIN-SUFFIX,v2raya.org # v2rayA Official Wiki. Took too long to respond for unknown reason.

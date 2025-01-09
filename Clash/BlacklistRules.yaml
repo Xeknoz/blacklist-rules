@@ -1,0 +1,94 @@
+payload:
+  # /*ApplicationService*/
+  # bootstrapcdn
+  - DOMAIN-SUFFIX,maxcdn.bootstrapcdn.com # A CDN platform for loading website resources. Took too long to respond for unknown reason.
+  # google
+  - DOMAIN-SUFFIX,cable.ua5v.com # Google Authenticator, authorize passkey by phone/tablet to login a account on another device. Currently Blocked by a firewall you may know.
+  - DOMAIN-SUFFIX,h5games.usercontent.goog # Google Play Games. Image Resources Loading.
+  # jotform
+  - DOMAIN-SUFFIX,jotform.com # Free Online Form Builder & Form Creator(described by Official Website).
+  # torbrowser-windows
+  - PROCESS-NAME,lyrebird.exe # A browser you may know.
+  # /*Blog*/
+  # acggw
+  - DOMAIN-SUFFIX,acggw.club # A blog for sharing comic & game resources.
+  # v2rayssr
+  - DOMAIN-SUFFIX,v2rayssr.com # Location Verification.
+  # visualstudiocode
+  - DOMAIN-SUFFIX,gallerycdn.vsassets.io # Extension Resources Downloading. Some ISP blocked this domain.
+  # /*CloudStorage*/
+  # buzzheavier
+  - DOMAIN-SUFFIX,buzzheavier.com # The index of this website.
+  # /*Game*/
+  # cravesaga
+  - DOMAIN-SUFFIX,gg-client-w.crave-saga.net # Game Resources Loading.
+  - DOMAIN-SUFFIX,gg-resource.crave-saga.net # Game Resources Loading.
+  - DOMAIN-SUFFIX,gg-server.crave-saga.net # Game Resources Loading.
+  # housamo
+  - DOMAIN-SUFFIX,elb.housamo.jp # Game Resources Loading.
+  # mariorun
+  - DOMAIN-SUFFIX,api.supermariorun.com # Location Verification.
+  # mbga
+  - DOMAIN-SUFFIX,pazuani.net # Game Resources Loading.
+  # pokemmo
+  - DOMAIN-SUFFIX,loginserver.pokemmo.com # Location Verification.
+  - DOMAIN-SUFFIX,loginserver.sea.pokemmo.com # Location Verification.
+  # pokemonhome
+  - DOMAIN-SUFFIX,resource.pokemon-home.com # Game Resources Loading.
+  - DOMAIN-SUFFIX,twinnrhhblenxjgd.pokemon-home.com # Game Resources Loading.
+  # pokemonmasters
+  - DOMAIN-SUFFIX,3b8d4a717682c1cc5839b50bc93667cf.baas.nintendo.com # Location Verification.
+  # pokemonunite
+  - DOMAIN-SUFFIX,gamesvr1.pokemon-unitepgame.com # Location Verification.
+  - DOMAIN-SUFFIX,gcloud.pokemon-unitepgame.com # First Page Loading.
+  - DOMAIN-SUFFIX,image.pokemon-unitepgame.com # Image Resources Loading.
+  # tamacolle
+  - DOMAIN-SUFFIX,nijitama.app # Tamacolle Official Website.
+  - DOMAIN-SUFFIX,tukitama.com # Game Resources Loading.
+  # /*Media*/
+  # apple-shazam
+  - DOMAIN-SUFFIX,shazam.com # Recognize music nearby.
+  # colamanga
+  - DOMAIN-SUFFIX,colamanga.com # A comic sharing website. Unlock some invisible resources.
+  # /*NetworkProvider*/
+  # domesticToOverseaService - as you see, chicken farms
+  - DOMAIN-SUFFIX,bityun.co
+  - DOMAIN-SUFFIX,tntyun.xyz
+  - DOMAIN-SUFFIX,tntv2.shop
+  - DOMAIN-SUFFIX,justmysocks2.net
+  - DOMAIN-SUFFIX,board.fmta.boo
+  - DOMAIN-SUFFIX,amz.fmta.boo
+  - DOMAIN-SUFFIX,smart.fmta.boo
+  - DOMAIN-SUFFIX,my.recmata.net
+  - DOMAIN-SUFFIX,nordcdn.com
+  # /*SoftwareMarket*/
+  # apkcombo
+  - DOMAIN-SUFFIX,apkflash.com # Location Verification. APKCombo Official Website.
+  - DOMAIN-SUFFIX,cdn.apkflash.net # Location Verification. Software Resources Downloading.
+  - DOMAIN-SUFFIX,cdn.androidcombo.com # Location Verification. Software Resources Downloading.
+  # /*SoftwareProvider*/
+  # navicat
+  - DOMAIN-SUFFIX,download3.navicat.com # Navicat Premium Software Updating. Blocked by something for unknown reason.
+  # spacedesk
+  - DOMAIN-SUFFIX,spacedesk.net # Spacedesk Official Website, by datronicsoft. Took too long to respond for unknown reason.
+  # /*Tool*/
+  # dnsLeakTest
+  - DOMAIN-SUFFIX,browserleaks.com
+  - DOMAIN-SUFFIX,browserleaks.net
+  - DOMAIN-SUFFIX,browserleaks.org
+  - DOMAIN-SUFFIX,dnsleaktest.com
+  - DOMAIN-SUFFIX,ipleak.net
+  - DOMAIN-SUFFIX,surfsharkdns.com
+  # proxy/vpnDetection
+  - DOMAIN-SUFFIX,proxy.888005.xyz
+  - DOMAIN-SUFFIX,proxy.incolumitas.com
+  # unofficialTwitterResourcesDownloader
+  - DOMAIN-SUFFIX,savetwitter.net # Website Resources Loading.
+  - DOMAIN-SUFFIX,twcdn.xyz # Image & Video Downloading.
+  # v2rayseNodeTool
+  - DOMAIN-SUFFIX,v2rayse.com # Currently Blocked by a firewall you may know.
+  # /*Wiki*/
+  - DOMAIN-SUFFIX,hiddifynext.com # Hiddify Official Website. Some ISP blocked this domain.
+  - DOMAIN-SUFFIX,matsuridayo.github.io # Matsuridayo's Official Website. Matsuridayo, a githuber who developed the "nekoray" software. Some ISP blocked this domain.
+  - DOMAIN-SUFFIX,wiki.metacubex.one # Mihomo Official Wiki. Currently Blocked by a firewall you may know.
+  - DOMAIN-SUFFIX,v2raya.org # v2rayA Official Wiki. Took too long to respond for unknown reason.
