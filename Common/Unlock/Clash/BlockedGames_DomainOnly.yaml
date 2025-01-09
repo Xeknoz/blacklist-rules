@@ -1,10 +1,10 @@
 payload:
   # mariorun
-  - api.supermariorun.com # Location Verification.
+  - DOMAIN-SUFFIX,api.supermariorun.com # Location Verification.
   # pokemmo
-  - loginserver.pokemmo.com # Location Verification.
-  - loginserver.sea.pokemmo.com # Location Verification.
+  - DOMAIN-SUFFIX,loginserver.pokemmo.com # Location Verification.
+  - DOMAIN-SUFFIX,loginserver.sea.pokemmo.com # Location Verification.
   # pokemonmasters
-  - 3b8d4a717682c1cc5839b50bc93667cf.baas.nintendo.com # Location Verification.
+  - DOMAIN-SUFFIX,3b8d4a717682c1cc5839b50bc93667cf.baas.nintendo.com # Location Verification.
   # pokemonunite
-  - gamesvr1.pokemon-unitepgame.com # Location Verification.
+  - DOMAIN-SUFFIX,gamesvr1.pokemon-unitepgame.com # Location Verification.
