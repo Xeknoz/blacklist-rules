@@ -20,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,twinnrhhblenxjgd.pokemon-home.com # Game Resources Loading.
   # pokemonunite
   - DOMAIN-SUFFIX,gcloud.pokemon-unitepgame.com # First Page Loading.
+  - DOMAIN-SUFFIX,image.pokemon-unitepgame.com # Image Resources Loading.
   # tamacolle
   - DOMAIN-SUFFIX,nijitama.app # Tamacolle Official Website.
   - DOMAIN-SUFFIX,tukitama.com # Game Resources Loading.
