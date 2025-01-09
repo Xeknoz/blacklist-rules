@@ -16,6 +16,7 @@ payload:
   - twinnrhhblenxjgd.pokemon-home.com # Game Resources Loading.
   # pokemonunite
   - gcloud.pokemon-unitepgame.com # First Page Loading.
+  - image.pokemon-unitepgame.com # Image Resources Loading.
   # tamacolle
   - nijitama.app # Tamacolle Official Website.
   - tukitama.com # Game Resources Loading.
