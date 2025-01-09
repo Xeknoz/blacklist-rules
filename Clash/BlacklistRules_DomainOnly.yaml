@@ -1,0 +1,92 @@
+payload:
+  # /*ApplicationService*/
+  # bootstrapcdn
+  - maxcdn.bootstrapcdn.com # A CDN platform for loading website resources. Took too long to respond for unknown reason.
+  # google
+  - cable.ua5v.com # Google Authenticator, authorize passkey by phone/tablet to login a account on another device. Currently Blocked by a firewall you may know.
+  - h5games.usercontent.goog # Google Play Games. Image Resources Loading.
+  # jotform
+  - jotform.com # Free Online Form Builder & Form Creator(described by Official Website).
+  # visualstudiocode
+  - gallerycdn.vsassets.io # Extension Resources Downloading. Some ISP blocked this domain.
+  # /*Blog*/
+  # acggw
+  - acggw.club # A blog for sharing comic & game resources.
+  # v2rayssr
+  - v2rayssr.com # Location Verification.
+  # /*CloudStorage*/
+  # buzzheavier
+  - buzzheavier.com
+  # /*Game*/
+  # cravesaga
+  - gg-client-w.crave-saga.net # Game Resources Loading.
+  - gg-resource.crave-saga.net # Game Resources Loading.
+  - gg-server.crave-saga.net # Game Resources Loading.
+  # housamo
+  - elb.housamo.jp # Game Resources Loading.
+  # mariorun
+  - api.supermariorun.com # Location Verification.
+  # mbga
+  - pazuani.net # Game Resources Loading.
+  # pokemmo
+  - loginserver.pokemmo.com # Location Verification.
+  - loginserver.sea.pokemmo.com # Location Verification.
+  # pokemonhome
+  - resource.pokemon-home.com # Game Resources Loading.
+  - twinnrhhblenxjgd.pokemon-home.com # Game Resources Loading.
+  # pokemonmasters
+  - 3b8d4a717682c1cc5839b50bc93667cf.baas.nintendo.com # Location Verification.
+  # pokemonunite
+  - gamesvr1.pokemon-unitepgame.com # Location Verification.
+  - gcloud.pokemon-unitepgame.com # First Page Loading.
+  - image.pokemon-unitepgame.com # Image Resources Loading.
+  # tamacolle
+  - nijitama.app # Tamacolle Official Website.
+  - tukitama.com # Game Resources Loading.
+  # /*Media*/
+  # apple-shazam
+  - shazam.com # Recognize music nearby.
+  # colamanga
+  - colamanga.com # A comic sharing website. Unlock some invisible resources.
+  # /*NetworkProvider*/
+  # domesticToOverseaService - as you see, chicken farms
+  - bityun.co
+  - tntyun.xyz
+  - tntv2.shop
+  - justmysocks2.net
+  - board.fmta.boo
+  - amz.fmta.boo
+  - smart.fmta.boo
+  - my.recmata.net
+  - nordcdn.com
+  # /*SoftwareMarket*/
+  # apkcombo
+  - apkflash.com # Location Verification. APKCombo Official Website.
+  - cdn.apkflash.net # Location Verification. Software Resources Downloading.
+  - cdn.androidcombo.com # Location Verification. Software Resources Downloading.
+  # /*SoftwareProvider*/
+  # navicat
+  - download3.navicat.com # Navicat Premium Software Updating. Blocked by something for unknown reason.
+  # spacedesk
+  - spacedesk.net # Spacedesk Official Website, by datronicsoft. Took too long to respond for unknown reason.
+  # /*Tool*/
+  # dnsLeakTest
+  - browserleaks.com
+  - browserleaks.net
+  - browserleaks.org
+  - dnsleaktest.com
+  - ipleak.net
+  - surfsharkdns.com
+  # proxy/vpnDetection
+  - proxy.888005.xyz
+  - proxy.incolumitas.com
+  # unofficialTwitterResourcesDownloader
+  - savetwitter.net # Website Resources Loading.
+  - twcdn.xyz # Image & Video Downloading.
+  # v2rayseNodeTool
+  - v2rayse.com # Currently Blocked by a firewall you may know.
+  # /*Wiki*/
+  - hiddifynext.com # Hiddify Official Website. Some ISP blocked this domain.
+  - matsuridayo.github.io # Matsuridayo's Official Website. Matsuridayo, a githuber who developed the "nekoray" software. Some ISP blocked this domain.
+  - wiki.metacubex.one # Mihomo Official Wiki. Currently Blocked by a firewall you may know.
+  - v2raya.org # v2rayA Official Wiki. Took too long to respond for unknown reason.

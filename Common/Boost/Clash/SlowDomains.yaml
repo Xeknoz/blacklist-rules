@@ -1,0 +1,34 @@
+payload:
+  # /*ApplicationService*/
+  # bootstrapcdn
+  - DOMAIN-SUFFIX,maxcdn.bootstrapcdn.com # A CDN platform for loading website resources. Took too long to respond for unknown reason.
+  # jotform
+  - DOMAIN-SUFFIX,jotform.com # Free Online Form Builder & Form Creator(described by Official Website).
+  # visualstudiocode
+  - DOMAIN-SUFFIX,gallerycdn.vsassets.io # Extension Resources Downloading.
+  # /*Game*/
+  # cravesaga
+  - DOMAIN-SUFFIX,gg-client-w.crave-saga.net # Game Resources Loading.
+  - DOMAIN-SUFFIX,gg-resource.crave-saga.net # Game Resources Loading.
+  - DOMAIN-SUFFIX,gg-server.crave-saga.net # Game Resources Loading.
+  # housamo
+  - DOMAIN-SUFFIX,elb.housamo.jp # Game Resources Loading.
+  # mbga
+  - DOMAIN-SUFFIX,pazuani.net # Game Resources Loading.
+  # pokemonhome
+  - DOMAIN-SUFFIX,resource.pokemon-home.com # Game Resources Loading.
+  - DOMAIN-SUFFIX,twinnrhhblenxjgd.pokemon-home.com # Game Resources Loading.
+  # pokemonunite
+  - DOMAIN-SUFFIX,gcloud.pokemon-unitepgame.com # First Page Loading.
+  # tamacolle
+  - DOMAIN-SUFFIX,nijitama.app # Tamacolle Official Website.
+  - DOMAIN-SUFFIX,tukitama.com # Game Resources Loading.
+  # unofficialTwitterResourcesDownloader
+  - DOMAIN-SUFFIX,savetwitter.net # Website Resources Loading.
+  - DOMAIN-SUFFIX,twcdn.xyz # Image & Video Downloading.
+  # /*SoftwareProvider*/
+  # spacedesk
+  - DOMAIN-SUFFIX,spacedesk.net # Spacedesk Official Website, by datronicsoft. Took too long to respond for unknown reason.
+  # /*Wiki*/
+  - DOMAIN-SUFFIX,wiki.metacubex.one # Mihomo Official Wiki. Currently Blocked by a firewall you may know.
+  - DOMAIN-SUFFIX,v2raya.org # v2rayA Official Wiki. Took too long to respond for unknown reason.

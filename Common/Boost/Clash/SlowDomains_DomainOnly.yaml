@@ -1,0 +1,24 @@
+payload:
+  # /*ApplicationService*/
+  # jotform
+  - jotform.com # Free Online Form Builder & Form Creator(described by Official Website).
+  # /*Game*/
+  # cravesaga
+  - gg-client-w.crave-saga.net # Game Resources Loading.
+  - gg-resource.crave-saga.net # Game Resources Loading.
+  - gg-server.crave-saga.net # Game Resources Loading.
+  # housamo
+  - elb.housamo.jp # Game Resources Loading.
+  # mbga
+  - pazuani.net # Game Resources Loading.
+  # pokemonhome
+  - resource.pokemon-home.com # Game Resources Loading.
+  - twinnrhhblenxjgd.pokemon-home.com # Game Resources Loading.
+  # pokemonunite
+  - gcloud.pokemon-unitepgame.com # First Page Loading.
+  # tamacolle
+  - nijitama.app # Tamacolle Official Website.
+  - tukitama.com # Game Resources Loading.
+  # unofficialTwitterResourcesDownloader
+  - savetwitter.net # Website Resources Loading.
+  - twcdn.xyz # Image & Video Downloading.
