@@ -8,6 +8,9 @@ payload:
   # /*Blog*/
   # v2rayssr
   - DOMAIN-SUFFIX,v2rayssr.com # Location Verification.
+  # /*Forum*/
+  # nodeseek
+  - DOMAIN-SUFFIX,nodeseek.com # Location Verification.
   # /*Game*/
   # mariorun
   - DOMAIN-SUFFIX,api.supermariorun.com # Location Verification.
