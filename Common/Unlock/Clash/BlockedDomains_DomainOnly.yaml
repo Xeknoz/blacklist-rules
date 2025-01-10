@@ -10,6 +10,9 @@ payload:
   # /*Blog*/
   # v2rayssr
   - v2rayssr.com # Location Verification.
+  # /*Forum*/
+  # nodeseek
+  - nodeseek.com # Location Verification.
   # /*Game*/
   # mariorun
   - api.supermariorun.com # Location Verification.
