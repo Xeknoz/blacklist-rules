@@ -10,6 +10,9 @@ payload:
   # /*Blog*/
   # v2rayssr
   - v2rayssr.com # Location Verification.
+  # /*Forum*/
+  # nodeseek
+  - nodeseek.com # Location Verification.
   # /*Media*/
   # apple-shazam
   - shazam.com # Recognize music nearby.
