@@ -19,6 +19,9 @@ payload:
   # /*CloudStorage*/
   # buzzheavier
   - DOMAIN-SUFFIX,buzzheavier.com # The index of this website.
+  # /*Forum*/
+  # nodeseek
+  - DOMAIN-SUFFIX,nodeseek.com # Location Verification.
   # /*Game*/
   # cravesaga
   - DOMAIN-SUFFIX,gg-client-w.crave-saga.net # Game Resources Loading.
