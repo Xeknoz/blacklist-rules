@@ -17,6 +17,9 @@ payload:
   # /*CloudStorage*/
   # buzzheavier
   - buzzheavier.com
+  # /*Forum*/
+  # nodeseek
+  - nodeseek.com # Location Verification.
   # /*Game*/
   # cravesaga
   - gg-client-w.crave-saga.net # Game Resources Loading.
