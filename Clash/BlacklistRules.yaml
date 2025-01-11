@@ -14,8 +14,6 @@ payload:
   - DOMAIN-SUFFIX,acggw.club # A blog for sharing comic & game resources.
   # v2rayssr
   - DOMAIN-SUFFIX,v2rayssr.com # Location Verification.
-  # visualstudiocode
-  - DOMAIN-SUFFIX,gallerycdn.vsassets.io # Extension Resources Downloading. Some ISP blocked this domain.
   # /*CloudStorage*/
   # buzzheavier
   - DOMAIN-SUFFIX,buzzheavier.com # The index of this website.
