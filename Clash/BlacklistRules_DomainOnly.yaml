@@ -7,8 +7,6 @@ payload:
   - h5games.usercontent.goog # Google Play Games. Image Resources Loading.
   # jotform
   - jotform.com # Free Online Form Builder & Form Creator(described by Official Website).
-  # visualstudiocode
-  - gallerycdn.vsassets.io # Extension Resources Downloading. Some ISP blocked this domain.
   # /*Blog*/
   # acggw
   - acggw.club # A blog for sharing comic & game resources.
