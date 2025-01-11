@@ -1,11 +1,7 @@
 payload:
   # /*ApplicationService*/
-  # bootstrapcdn
-  - DOMAIN-SUFFIX,maxcdn.bootstrapcdn.com # A CDN platform for loading website resources. Took too long to respond for unknown reason.
   # jotform
   - DOMAIN-SUFFIX,jotform.com # Free Online Form Builder & Form Creator(described by Official Website).
-  # visualstudiocode
-  - DOMAIN-SUFFIX,gallerycdn.vsassets.io # Extension Resources Downloading.
   # /*Game*/
   # cravesaga
   - DOMAIN-SUFFIX,gg-client-w.crave-saga.net # Game Resources Loading.
@@ -27,9 +23,7 @@ payload:
   # unofficialTwitterResourcesDownloader
   - DOMAIN-SUFFIX,savetwitter.net # Website Resources Loading.
   - DOMAIN-SUFFIX,twcdn.xyz # Image & Video Downloading.
-  # /*SoftwareProvider*/
-  # spacedesk
-  - DOMAIN-SUFFIX,spacedesk.net # Spacedesk Official Website, by datronicsoft. Took too long to respond for unknown reason.
-  # /*Wiki*/
-  - DOMAIN-SUFFIX,wiki.metacubex.one # Mihomo Official Wiki. Currently Blocked by a firewall you may know.
-  - DOMAIN-SUFFIX,v2raya.org # v2rayA Official Wiki. Took too long to respond for unknown reason.
+  # /*Tool*/
+  # sms-active
+  - DOMAIN-SUFFIX,sms-activate.io # SMS-Active Official Website.
+  - DOMAIN-SUFFIX,sms-activate.guru # SMS-Active Official Website.
