@@ -23,3 +23,7 @@ payload:
   # unofficialTwitterResourcesDownloader
   - savetwitter.net # Website Resources Loading.
   - twcdn.xyz # Image & Video Downloading.
+  # /*Tool*/
+  # sms-active
+  - sms-activate.io # SMS-Active Official Website.
+  - sms-activate.guru # SMS-Active Official Website.
