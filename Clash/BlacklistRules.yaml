@@ -18,6 +18,8 @@ payload:
   # buzzheavier
   - DOMAIN-SUFFIX,buzzheavier.com # The index of this website.
   # /*Forum*/
+  # linuxdo
+  DOMAIN-SUFFIX,linux.do
   # nodeseek
   - DOMAIN-SUFFIX,nodeseek.com # Location Verification.
   # /*Game*/
