@@ -2,6 +2,9 @@ payload:
   # /*ApplicationService*/
   # jotform
   - jotform.com # Free Online Form Builder & Form Creator(described by Official Website).
+  # /*Forum*/
+  # linuxdo
+  - linux.do
   # /*Game*/
   # cravesaga
   - gg-client-w.crave-saga.net # Game Resources Loading.
