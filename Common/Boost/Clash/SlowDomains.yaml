@@ -2,6 +2,9 @@ payload:
   # /*ApplicationService*/
   # jotform
   - DOMAIN-SUFFIX,jotform.com # Free Online Form Builder & Form Creator(described by Official Website).
+  # /*Forum*/
+  # linuxdo
+  - DOMAIN-SUFFIX,linux.do
   # /*Game*/
   # cravesaga
   - DOMAIN-SUFFIX,gg-client-w.crave-saga.net # Game Resources Loading.
