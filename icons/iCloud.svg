@@ -1,1 +1,16 @@
-<svg fill="#000000" width="800px" height="800px" viewBox="0 0 24 24" role="img" xmlns="http://www.w3.org/2000/svg"><path d="M13.762 4.29a6.51 6.51 0 0 0-5.669 3.332 3.571 3.571 0 0 0-1.558-.36 3.571 3.571 0 0 0-3.516 3A4.918 4.918 0 0 0 0 14.796a4.918 4.918 0 0 0 4.92 4.914 4.93 4.93 0 0 0 .617-.045h14.42c2.305-.272 4.041-2.258 4.043-4.589v-.009a4.594 4.594 0 0 0-3.727-4.508 6.51 6.51 0 0 0-6.511-6.27z"/></svg>
+<svg width="500" height="600" xmlns="http://www.w3.org/2000/svg" xmlns:undefined="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs57">
+  <pattern id="EMFhbasepattern" patternUnits="userSpaceOnUse" width="6" height="6" x="0" y="0"/>
+  <linearGradient y2="0.67881" x2="-0.00037" y1="0.70034" x1="1.00304" id="linearGradient1072" xlink:href="#linearGradient1070" />
+  <linearGradient id="linearGradient1070" >
+   <stop stop-color="#3e82f4" id="stop1066" offset="0"/>
+   <stop stop-color="#93dcf7" id="stop1068" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g id="#ffffffff"/>
+  <g fill="#00ff00" transform="matrix(0.74035173,0,0,0.75447038,-840.95699,-775.15387)" id="#2acbffff-4"/>
+  <path style="vector-effect: non-scaling-stroke;" stroke-miterlimit="4" stroke-width="0" fill="url(#linearGradient1072)"  id="rect955" d="m286.14423,141.82999a133.5537,133.5537 0 0 0 -116.28712,68.35315a73.26242,73.26242 0 0 0 -31.97253,-7.39468a73.26242,73.26242 0 0 0 -72.12615,61.54113a100.88593,100.88593 0 0 0 -61.92115,93.05209a100.88593,100.88593 0 0 0 100.93472,100.78831a100.88593,100.88593 0 0 0 12.65386,-0.91203l280.45477,0a93.90324,94.35022 0 0 0 4.42411,0.21393a93.90324,94.35022 0 0 0 4.21576,-0.21393l6.71632,0l0,-0.49918a93.90324,94.35022 0 0 0 82.92591,-93.6376l0,-0.18104a93.90324,94.35022 0 0 0 -76.44506,-92.47595a133.5537,133.5537 0 0 0 -133.57344,-128.6342z"/>
+ </g>
+</svg>
