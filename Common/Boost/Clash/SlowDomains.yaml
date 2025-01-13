@@ -27,6 +27,8 @@ payload:
   - DOMAIN-SUFFIX,savetwitter.net # Website Resources Loading.
   - DOMAIN-SUFFIX,twcdn.xyz # Image & Video Downloading.
   # /*Tool*/
+  # hstock
+  - DOMAIN-SUFFIX,hstock.org # Hstock Official Website.
   # sms-active
   - DOMAIN-SUFFIX,sms-activate.io # SMS-Active Official Website.
   - DOMAIN-SUFFIX,sms-activate.guru # SMS-Active Official Website.
