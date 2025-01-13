@@ -80,9 +80,14 @@ payload:
   - dnsleaktest.com
   - ipleak.net
   - surfsharkdns.com
+  # hstock
+  - hstock.org # Hstock Official Website.
   # proxy/vpnDetection
   - proxy.888005.xyz
   - proxy.incolumitas.com
+  # sms-active
+  - sms-activate.io # SMS-Active Official Website.
+  - sms-activate.guru # SMS-Active Official Website.
   # unofficialTwitterResourcesDownloader
   - savetwitter.net # Website Resources Loading.
   - twcdn.xyz # Image & Video Downloading.
