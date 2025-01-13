@@ -82,9 +82,14 @@ payload:
   - DOMAIN-SUFFIX,dnsleaktest.com
   - DOMAIN-SUFFIX,ipleak.net
   - DOMAIN-SUFFIX,surfsharkdns.com
+  # hstock
+  - DOMAIN-SUFFIX,hstock.org # Hstock Official Website.
   # proxy/vpnDetection
   - DOMAIN-SUFFIX,proxy.888005.xyz
   - DOMAIN-SUFFIX,proxy.incolumitas.com
+  # sms-active
+  - DOMAIN-SUFFIX,sms-activate.io # SMS-Active Official Website.
+  - DOMAIN-SUFFIX,sms-activate.guru # SMS-Active Official Website.
   # unofficialTwitterResourcesDownloader
   - DOMAIN-SUFFIX,savetwitter.net # Website Resources Loading.
   - DOMAIN-SUFFIX,twcdn.xyz # Image & Video Downloading.
