@@ -80,6 +80,8 @@ payload:
   - dnsleaktest.com
   - ipleak.net
   - surfsharkdns.com
+  # follow
+  - api.follow.is # Resources Loading.
   # hstock
   - hstock.s3.eu-central-1.amazonaws.com # Image Resources Loading.
   - hstock.org # Hstock Official Website.
