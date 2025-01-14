@@ -28,7 +28,9 @@ payload:
   - twcdn.xyz # Image & Video Downloading.
   # /*Tool*/
   # hstock
+  - hstock.s3.eu-central-1.amazonaws.com # Image Resources Loading.
   - hstock.org # Hstock Official Website.
   # sms-active
+  - smsactivate.s3.eu-central-1.amazonaws.com # Image Resources Loading.
   - sms-activate.io # SMS-Active Official Website.
   - sms-activate.guru # SMS-Active Official Website.
