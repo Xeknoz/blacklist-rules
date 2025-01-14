@@ -27,6 +27,8 @@ payload:
   - savetwitter.net # Website Resources Loading.
   - twcdn.xyz # Image & Video Downloading.
   # /*Tool*/
+  # follow
+  - api.follow.is # Resources Loading.
   # hstock
   - hstock.s3.eu-central-1.amazonaws.com # Image Resources Loading.
   - hstock.org # Hstock Official Website.
