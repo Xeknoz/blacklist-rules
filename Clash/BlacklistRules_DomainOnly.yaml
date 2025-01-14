@@ -81,11 +81,13 @@ payload:
   - ipleak.net
   - surfsharkdns.com
   # hstock
+  - hstock.s3.eu-central-1.amazonaws.com # Image Resources Loading.
   - hstock.org # Hstock Official Website.
   # proxy/vpnDetection
   - proxy.888005.xyz
   - proxy.incolumitas.com
   # sms-active
+  - smsactivate.s3.eu-central-1.amazonaws.com # Image Resources Loading.
   - sms-activate.io # SMS-Active Official Website.
   - sms-activate.guru # SMS-Active Official Website.
   # unofficialTwitterResourcesDownloader
