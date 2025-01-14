@@ -82,6 +82,8 @@ payload:
   - DOMAIN-SUFFIX,dnsleaktest.com
   - DOMAIN-SUFFIX,ipleak.net
   - DOMAIN-SUFFIX,surfsharkdns.com
+  # follow
+  - DOMAIN-SUFFIX,api.follow.is # Resources Loading.
   # hstock
   - DOMAIN-SUFFIX,hstock.s3.eu-central-1.amazonaws.com # Image Resources Loading.
   - DOMAIN-SUFFIX,hstock.org # Hstock Official Website.
