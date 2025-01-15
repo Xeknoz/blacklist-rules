@@ -104,4 +104,5 @@ payload:
   - DOMAIN-SUFFIX,matsuridayo.github.io # Matsuridayo's Official Website. Matsuridayo, a githuber who developed the "nekoray" software. Some ISP blocked this domain.
   - DOMAIN-SUFFIX,wiki.metacubex.one # Mihomo Official Wiki. Currently Blocked by a firewall you may know.
   - DOMAIN-SUFFIX,v2raya.org # v2rayA Official Wiki. Took too long to respond for unknown reason.
+  # vocaloidDatabase
   - DOMAIN-SUFFIX,vocadb.net # Official Vocaloid Database.
