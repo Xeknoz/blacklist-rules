@@ -36,3 +36,6 @@ payload:
   - DOMAIN-SUFFIX,smsactivate.s3.eu-central-1.amazonaws.com # Image Resources Loading.
   - DOMAIN-SUFFIX,sms-activate.io # SMS-Active Official Website.
   - DOMAIN-SUFFIX,sms-activate.guru # SMS-Active Official Website.
+  # /*Wiki*/
+  # vocaloidDatabase
+  - DOMAIN-SUFFIX,vocadb.net # Official Vocaloid Database.
