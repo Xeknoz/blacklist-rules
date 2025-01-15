@@ -36,3 +36,5 @@ payload:
   - smsactivate.s3.eu-central-1.amazonaws.com # Image Resources Loading.
   - sms-activate.io # SMS-Active Official Website.
   - sms-activate.guru # SMS-Active Official Website.
+  # /*Wiki*/
+  - vocadb.net # Official Vocaloid Database.
