@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,maxcdn.bootstrapcdn.com # A CDN platform for loading website resources. Took too long to respond for unknown reason.
   # google
   - DOMAIN-SUFFIX,cable.ua5v.com # Google Authenticator, authorize passkey by phone/tablet to login a account on another device. Currently Blocked by a firewall you may know.
+  - DOMAIN-SUFFIX,enclave.ua5v.com # Same as "cable.ua5v.com".
   - DOMAIN-SUFFIX,h5games.usercontent.goog # Google Play Games. Image Resources Loading.
   # jotform
   - DOMAIN-SUFFIX,jotform.com # Free Online Form Builder & Form Creator(described by Official Website).
