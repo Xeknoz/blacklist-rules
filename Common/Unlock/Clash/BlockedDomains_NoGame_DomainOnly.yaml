@@ -2,6 +2,8 @@ payload:
   # /*ApplicationService*/
   # bootstrapcdn
   - maxcdn.bootstrapcdn.com # A CDN platform for loading website resources. Took too long to respond for unknown reason.
+  # captcha
+  - octocaptcha.com # Some ISP blocked this domain.
   # google
   - cable.ua5v.com # Google Authenticator, authorize passkey by phone/tablet to login a account on another device. Currently Blocked by a firewall you may know.
   - enclave.ua5v.com # Same as "cable.ua5v.com".
