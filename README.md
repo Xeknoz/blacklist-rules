@@ -26,13 +26,9 @@ Available for Clash & Stash clients.
     </td>
     <td>
       <a href="https://raw.githubusercontent.com/Xeknoz/blacklist-rules/main/Clash/BlacklistRules_DomainOnly.yaml">Domain Only</a>
-      &nbsp;/&nbsp;
-      <a href="https://raw.githubusercontent.com/Xeknoz/blacklist-rules/main/Clash/BlacklistRules.yaml">Classcial</a>
     </td>
     <td>
       <a href="https://fastly.jsdelivr.net/gh/Xeknoz/blacklist-rules@main/Clash/BlacklistRules_DomainOnly.yaml">Domain Only</a>
-      &nbsp;/&nbsp;
-      <a href="https://fastly.jsdelivr.net/gh/Xeknoz/blacklist-rules@main/Clash/BlacklistRules.yaml">Classcial</a>
     </td>
   </tr>
   <tr align="center">
@@ -41,13 +37,9 @@ Available for Clash & Stash clients.
     </td>
     <td>
       <a href="https://raw.githubusercontent.com/Xeknoz/blacklist-rules/main/Common/Boost/Clash/SlowDomains_DomainOnly.yaml">Domain Only</a>
-      &nbsp;/&nbsp;
-      <a href="https://raw.githubusercontent.com/Xeknoz/blacklist-rules/main/Common/Boost/Clash/SlowDomains.yaml">Classcial</a>
     </td>
     <td>
       <a href="https://fastly.jsdelivr.net/gh/Xeknoz/blacklist-rules@main/Common/Boost/Clash/SlowDomains_DomainOnly.yaml">Domain Only</a>
-      &nbsp;/&nbsp;
-      <a href="https://fastly.jsdelivr.net/gh/Xeknoz/blacklist-rules@main/Common/Boost/Clash/SlowDomains.yaml">Classcial</a>
     </td>
   </tr>
   <tr align="center">
@@ -70,22 +62,14 @@ Available for Clash & Stash clients.
       <a href="https://github.com/Xeknoz/blacklist-rules/tree/main/Common/Unlock/Clash">Common-Unlock</a>
     </td>
     <td>
-      <a href="https://raw.githubusercontent.com/Xeknoz/blacklist-rules/main/Common/Unlock/Clash/BlockedDomains_DomainOnly.yaml">Domain Only</a>
-      &nbsp;/<br>
       <a href="https://raw.githubusercontent.com/Xeknoz/blacklist-rules/main/Common/Unlock/Clash/BlockedDomains_NoGame_DomainOnly.yaml">No game & Domain Only</a>
       &nbsp;/<br>
       <a href="https://raw.githubusercontent.com/Xeknoz/blacklist-rules/main/Common/Unlock/Clash/BlockedGames_DomainOnly.yaml">Game Only & Domain Only</a>
-      &nbsp;/&nbsp;
-      <a href="https://raw.githubusercontent.com/Xeknoz/blacklist-rules/main/Common/Unlock/Clash/BlockedDomains.yaml">Classcial</a>
     </td>
     <td>
-      <a href="https://fastly.jsdelivr.net/gh/Xeknoz/blacklist-rules@main/Common/Unlock/Clash/BlockedDomains_DomainOnly.yaml">Domain Only</a>
-      &nbsp;/<br>
       <a href="https://fastly.jsdelivr.net/gh/Xeknoz/blacklist-rules@main/Common/Unlock/Clash/BlockedDomains_NoGame_DomainOnly.yaml">No game & Domain Only</a>
       &nbsp;/<br>
       <a href="https://fastly.jsdelivr.net/gh/Xeknoz/blacklist-rules@main/Common/Unlock/Clash/BlockedGames_DomainOnly.yaml">Game Only & Domain Only</a>
-      &nbsp;/&nbsp;
-      <a href="https://fastly.jsdelivr.net/gh/Xeknoz/blacklist-rules@main/Common/Unlock/Clash/BlockedDomains.yaml">Classcial</a>
     </td>
   </tr>
 </table>
