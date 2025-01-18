@@ -18,23 +18,4 @@ rule-providers:
       url: "https://fastly.jsdelivr.net/gh/Xeknoz/blacklist-rules@main/Common/Boost/Clash/SlowDomains_DomainOnly.yaml",
       path: "./ruleset/Xeknoz/slowdomains_domainonly.yaml",
     }
-```  
-## Type Ⅱ - CLASSICAL  
-🔗 **If you would like to use `SlowDomains.yaml`, you can get it with following links:**  
-- Original: [View or Download](https://raw.githubusercontent.com/Xeknoz/blacklist-rules/main/Common/Boost/Clash/SlowDomains.yaml)  
-- CDN(maybe 24-hour-delaying sync): [View or Download](https://fastly.jsdelivr.net/gh/Xeknoz/blacklist-rules@main/Common/Boost/Clash/SlowDomains.yaml)  
-### ℹ️ Note  
-**To use `SlowDomains.yaml`, `behavior` property should be `classical`.**  
-### 📝 Example  
-```yaml
-rule-providers:
-  blacklistrules-boost:
-    {
-      type: http,
-      interval: 86400,
-      format: yaml,
-      behavior: classical,
-      url: "https://fastly.jsdelivr.net/gh/Xeknoz/blacklist-rules@main/Common/Boost/Clash/SlowDomains_DomainOnly.yaml",
-      path: "./ruleset/Xeknoz/slowdomains.yaml",
-    }
 ```
