@@ -17,6 +17,8 @@ payload:
   - my.recmata.net
   - nordcdn.com
   # /*Tool*/
+  # deepseek
+  - chat.deepseek.com
   # dnsLeakTest
   - browserleaks.com
   - browserleaks.net
