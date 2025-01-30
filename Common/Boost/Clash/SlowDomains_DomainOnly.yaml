@@ -34,6 +34,8 @@ payload:
   # hstock
   - hstock.s3.eu-central-1.amazonaws.com # Image Resources Loading.
   - hstock.org # Hstock Official Website.
+  # letsenhance
+  - cdn.images.letsenhance.io # Image Downloading.
   # sms-active
   - smsactivate.s3.eu-central-1.amazonaws.com # Image Resources Loading.
   - sms-activate.io # SMS-Active Official Website.
