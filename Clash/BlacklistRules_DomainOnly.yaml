@@ -70,6 +70,8 @@ payload:
   - apkflash.com # Location Verification. APKCombo Official Website.
   - cdn.apkflash.net # Location Verification. Software Resources Downloading.
   - cdn.androidcombo.com # Location Verification. Software Resources Downloading.
+  # f-droid
+  - f-droid.org # F-Droid Official Website.
   # /*SoftwareProvider*/
   # navicat
   - download3.navicat.com # Navicat Premium Software Updating. Blocked by something for unknown reason.
