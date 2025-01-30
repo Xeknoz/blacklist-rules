@@ -26,6 +26,9 @@ payload:
   # unofficialTwitterResourcesDownloader
   - savetwitter.net # Website Resources Loading.
   - twcdn.xyz # Image & Video Downloading.
+  # /*SoftwareMarket*/
+  # f-droid
+  - f-droid.org # F-Droid Official Website.
   # /*Tool*/
   # follow
   - api.follow.is # Resources Loading.
