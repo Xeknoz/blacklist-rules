@@ -76,6 +76,8 @@ payload:
   # spacedesk
   - spacedesk.net # Spacedesk Official Website, by datronicsoft. Took too long to respond for unknown reason.
   # /*Tool*/
+  # letsenhance
+  - cdn.images.letsenhance.io
   # deepseek
   - chat.deepseek.com
   # dnsLeakTest
