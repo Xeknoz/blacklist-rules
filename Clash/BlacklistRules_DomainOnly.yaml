@@ -10,6 +10,8 @@ payload:
   - h5games.usercontent.goog # Google Play Games. Image Resources Loading.
   # jotform
   - jotform.com # Free Online Form Builder & Form Creator(described by Official Website).
+  # mozilla
+  - addons.mozilla.org # Some extension is not available in some region.
   # /*Blog*/
   # acggw
   - acggw.club # A blog for sharing comic & game resources.
