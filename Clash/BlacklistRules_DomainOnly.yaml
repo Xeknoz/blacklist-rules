@@ -81,6 +81,7 @@ payload:
   - download3.navicat.com # Navicat Premium Software Updating. Blocked by something for unknown reason.
   # spacedesk
   - spacedesk.net # Spacedesk Official Website, by datronicsoft. Took too long to respond for unknown reason.
+  - www.spacedesk.net # Spacedesk Official Website, by datronicsoft. Took too long to respond for unknown reason.
   # /*Tool*/
   # deepseek
   - chat.deepseek.com
