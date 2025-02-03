@@ -29,6 +29,9 @@ payload:
   # /*SoftwareMarket*/
   # f-droid
   - f-droid.org # F-Droid Official Website.
+  - ftp.agdsn.de # F-Droid's repository mirror.
+  - ftp.gwdg.de # F-Droid's repository mirror.
+  - mirror.kumi.systems # F-Droid's repository mirror.
   # /*Tool*/
   # follow
   - api.follow.is # Resources Loading.
