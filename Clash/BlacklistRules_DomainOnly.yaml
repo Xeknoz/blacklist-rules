@@ -76,6 +76,9 @@ payload:
   - cdn.androidcombo.com # Location Verification. Software Resources Downloading.
   # f-droid
   - f-droid.org # F-Droid Official Website.
+  - ftp.agdsn.de # F-Droid's repository mirror.
+  - ftp.gwdg.de # F-Droid's repository mirror.
+  - mirror.kumi.systems # F-Droid's repository mirror.
   # /*SoftwareProvider*/
   # navicat
   - download3.navicat.com # Navicat Premium Software Updating. Blocked by something for unknown reason.
