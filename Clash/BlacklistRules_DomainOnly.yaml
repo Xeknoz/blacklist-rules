@@ -71,6 +71,7 @@ payload:
   - nordcdn.com
   # /*SoftwareMarket*/
   # apkcombo
+  - apkcombo.app # Location Verification. APKCombo Official Website.
   - apkflash.com # Location Verification. APKCombo Official Website.
   - cdn.apkflash.net # Location Verification. Software Resources Downloading.
   - cdn.androidcombo.com # Location Verification. Software Resources Downloading.
