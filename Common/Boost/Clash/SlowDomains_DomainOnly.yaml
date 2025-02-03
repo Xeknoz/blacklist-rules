@@ -34,6 +34,8 @@ payload:
   - ftp.gwdg.de # F-Droid's repository mirror.
   - mirror.kumi.systems # F-Droid's repository mirror.
   - mirror.ossplanet.net # F-Droid's repository mirror.
+  # steam
+  - store.fastly.steamstatic.com # Webpage Loading.
   # /*Tool*/
   # follow
   - api.follow.is # Resources Loading.
