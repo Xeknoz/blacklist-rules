@@ -26,6 +26,7 @@ payload:
   # /*SoftwareMarket*/
   # apkcombo
   - apkflash.com # Location Verification. APKCombo Official Website.
+  - apkcombo.app # Location Verification. APKCombo Official Website.
   - cdn.apkflash.net # Location Verification. Software Resources Downloading.
   - cdn.androidcombo.com # Location Verification. Software Resources Downloading.
   # /*SoftwareProvider*/
