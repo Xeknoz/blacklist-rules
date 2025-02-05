@@ -18,6 +18,8 @@ payload:
   # /*Forum*/
   # nodeseek
   - nodeseek.com # Location Verification.
+  # /*LandingPage*/
+  - tndk0011.netlify.app # A website for advertise "Non-Imitation ~BEA[s]T FREAX 2~" album.
   # /*Media*/
   # apple-shazam
   - shazam.com # Recognize music nearby.
