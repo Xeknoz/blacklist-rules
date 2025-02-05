@@ -53,6 +53,8 @@ payload:
   # tamacolle
   - nijitama.app # Tamacolle Official Website.
   - tukitama.com # Game Resources Loading.
+  # /*LandingPage*/
+  - tndk0011.netlify.app # A website for advertise "Non-Imitation ~BEA[s]T FREAX 2~" album.
   # /*Media*/
   # apple-shazam
   - shazam.com # Recognize music nearby.
