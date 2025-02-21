@@ -1,0 +1,18 @@
+payload:
+  # cravesaga
+  - gg-client-w.crave-saga.net # Game Resources Loading.
+  - gg-resource.crave-saga.net # Game Resources Loading.
+  - gg-server.crave-saga.net # Game Resources Loading.
+  # housamo
+  - elb.housamo.jp # Game Resources Loading.
+  # mbga
+  - pazuani.net # Game Resources Loading.
+  # pokemonhome
+  - resource.pokemon-home.com # Game Resources Loading.
+  - twinnrhhblenxjgd.pokemon-home.com # Game Resources Loading.
+  # pokemonunite
+  - gcloud.pokemon-unitepgame.com # First Page Loading.
+  - image.pokemon-unitepgame.com # Image Resources Loading.
+  # tamacolle
+  - nijitama.app # Tamacolle Official Website.
+  - tukitama.com # Game Resources Loading.
