@@ -36,10 +36,14 @@
       <a href="https://github.com/Xeknoz/blacklist-rules/blob/main/Common/Boost/Clash/README_CN.md">通用-加速</a>
     </td>
     <td>
-      <a href="https://raw.githubusercontent.com/Xeknoz/blacklist-rules/main/Common/Boost/Clash/SlowDomains_DomainOnly.yaml">仅域名</a>
+      <a href="https://raw.githubusercontent.com/Xeknoz/blacklist-rules/main/Common/Boost/Clash/SlowDomains_NoGame_DomainOnly.yaml">排除游戏且仅域名</a>
+      &nbsp;/<br>
+      <a href="https://raw.githubusercontent.com/Xeknoz/blacklist-rules/main/Common/Boost/Clash/SlowDomains_GameOnly_DomainOnly.yaml">仅游戏且仅域名</a>
     </td>
     <td>
-      <a href="https://fastly.jsdelivr.net/gh/Xeknoz/blacklist-rules@main/Common/Boost/Clash/SlowDomains_DomainOnly.yaml">仅域名</a>
+      <a href="https://fastly.jsdelivr.net/gh/Xeknoz/blacklist-rules@main/Common/Boost/Clash/SlowDomains_NoGame_DomainOnly.yaml">排除游戏且仅域名</a>
+      &nbsp;/<br>
+      <a href="https://fastly.jsdelivr.net/gh/Xeknoz/blacklist-rules@main/Common/Boost/Clash/SlowDomains_GameOnly_DomainOnly.yaml">仅游戏且仅域名</a>
     </td>
   </tr>
   <tr align="center">

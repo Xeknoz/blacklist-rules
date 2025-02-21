@@ -36,10 +36,14 @@ Available for Clash & Stash clients.
       <a href="https://github.com/Xeknoz/blacklist-rules/tree/main/Common/Boost/Clash">Common-Boost</a>
     </td>
     <td>
-      <a href="https://raw.githubusercontent.com/Xeknoz/blacklist-rules/main/Common/Boost/Clash/SlowDomains_DomainOnly.yaml">Domain Only</a>
+      <a href="https://raw.githubusercontent.com/Xeknoz/blacklist-rules/main/Common/Boost/Clash/SlowDomains_NoGame_DomainOnly.yaml">No game & Domain Only</a>
+      &nbsp;/<br>
+      <a href="https://raw.githubusercontent.com/Xeknoz/blacklist-rules/main/Common/Boost/Clash/SlowDomains_GameOnly_DomainOnly.yaml">Game Only & Domain Only</a>
     </td>
     <td>
-      <a href="https://fastly.jsdelivr.net/gh/Xeknoz/blacklist-rules@main/Common/Boost/Clash/SlowDomains_DomainOnly.yaml">Domain Only</a>
+      <a href="https://fastly.jsdelivr.net/gh/Xeknoz/blacklist-rules@main/Common/Boost/Clash/SlowDomains_NoGame_DomainOnly.yaml">No game & Domain Only</a>
+      &nbsp;/<br>
+      <a href="https://fastly.jsdelivr.net/gh/Xeknoz/blacklist-rules@main/Common/Boost/Clash/SlowDomains_GameOnly_DomainOnly.yaml">Game Only & Domain Only</a>
     </td>
   </tr>
   <tr align="center">
