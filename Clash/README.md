@@ -1,12 +1,20 @@
-# 📜 BlacklistRules Collection  
-**🌐 Select your Language: English | [简体中文](README_CN.md)**  
-## Type Ⅰ - DOMAIN ONLY  
-🔗 **If you would like to use `BlacklistRules_DomainOnly.yaml`, you can get it with following links:**  
-- Original: [View or Download](https://raw.githubusercontent.com/Xeknoz/blacklist-rules/main/Clash/BlacklistRules_DomainOnly.yaml)  
+# 📜 BlacklistRules Collection
+
+**🌐 Select your Language: English | [简体中文](README_CN.md)**
+
+## Type Ⅰ - DOMAIN ONLY
+
+🔗 **If you would like to use `BlacklistRules_DomainOnly.yaml`, you can get it with following links:**
+
+- Original: [View or Download](https://raw.githubusercontent.com/Xeknoz/blacklist-rules/main/Clash/BlacklistRules_DomainOnly.yaml)
 - CDN(maybe 24-hour-delaying sync): [View or Download](https://fastly.jsdelivr.net/gh/Xeknoz/blacklist-rules@main/Clash/BlacklistRules_DomainOnly.yaml)
-### ℹ️ Note  
-**To use `BlacklistRules_DomainOnly.yaml`, `behavior` property should be `domain`.**  
-### 📝 Example  
+
+### ℹ️ Note
+
+**To use `BlacklistRules_DomainOnly.yaml`, `behavior` property should be `domain`.**
+
+### 📝 Example
+
 ```yaml
 rule-providers:
   blacklistrules:
