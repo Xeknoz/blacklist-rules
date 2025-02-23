@@ -3,30 +3,30 @@ payload:
   # bootstrapcdn
   - maxcdn.bootstrapcdn.com # A CDN platform for loading website resources. Took too long to respond for unknown reason.
   # captcha
-  - octocaptcha.com # Some ISP blocked this domain.
+  - +.octocaptcha.com # Some ISP blocked this domain.
   # google
   - cable.ua5v.com # Google Authenticator, authorize passkey by phone/tablet to login a account on another device. Currently Blocked by a firewall you may know.
   - enclave.ua5v.com # Same as "cable.ua5v.com".
   - h5games.usercontent.goog # Google Play Games. Image Resources Loading.
   # jotform
-  - jotform.com # Free Online Form Builder & Form Creator(described by Official Website).
+  - +.jotform.com # Free Online Form Builder & Form Creator(described by Official Website).
   # mozilla
   - addons.mozilla.org # Some extension is not available in some region.
   # visualstudiocode
   - gallerycdn.vsassets.io # Extension Resources Downloading. Some ISP blocked this domain.
   # /*Blog*/
   # acggw
-  - acggw.club # A blog for sharing comic & game resources.
+  - +.acggw.club # A blog for sharing comic & game resources.
   # v2rayssr
-  - v2rayssr.com # Location Verification.
+  - +.v2rayssr.com # Location Verification.
   # /*CloudStorage*/
   # buzzheavier
-  - buzzheavier.com
+  - +.buzzheavier.com
   # /*Forum*/
   # linuxdo
-  - linux.do # LINUX DO Official Website.
+  - +.linux.do # LINUX DO Official Website.
   # nodeseek
-  - nodeseek.com # Location Verification.
+  - +.nodeseek.com # Location Verification.
   # /*Game*/
   # cravesaga
   - gg-client-w.crave-saga.net # Game Resources Loading.
@@ -37,7 +37,7 @@ payload:
   # mariorun
   - api.supermariorun.com # Location Verification.
   # mbga
-  - pazuani.net # Game Resources Loading.
+  - +.pazuani.net # Game Resources Loading.
   # pokemmo
   - loginserver.pokemmo.com # Location Verification.
   - loginserver.sea.pokemmo.com # Location Verification.
@@ -51,34 +51,34 @@ payload:
   - gcloud.pokemon-unitepgame.com # First Page Loading.
   - image.pokemon-unitepgame.com # Image Resources Loading.
   # tamacolle
-  - nijitama.app # Tamacolle Official Website.
-  - tukitama.com # Game Resources Loading.
+  - +.nijitama.app # Tamacolle Official Website.
+  - +.tukitama.com # Game Resources Loading.
   # /*LandingPage*/
   - tndk0011.netlify.app # A website for advertise "Non-Imitation ~BEA[s]T FREAX 2~" album.
   # /*Media*/
   # apple-shazam
-  - shazam.com # Recognize music nearby.
+  - +.shazam.com # Recognize music nearby.
   # colamanga
-  - colamanga.com # A comic sharing website. Unlock some invisible resources.
+  - +.colamanga.com # A comic sharing website. Unlock some invisible resources.
   # /*NetworkProvider*/
   # domesticToOverseaService - as you see, chicken farms
-  - bityun.co
-  - tntyun.xyz
-  - tntv2.shop
-  - justmysocks2.net
+  - +.bityun.co
+  - +.tntyun.xyz
+  - +.tntv2.shop
+  - +.justmysocks2.net
   - board.fmta.boo
   - amz.fmta.boo
   - smart.fmta.boo
   - my.recmata.net
-  - nordcdn.com
+  - +.nordcdn.com
   # /*SoftwareMarket*/
   # apkcombo
-  - apkcombo.app # Location Verification. APKCombo Official Website.
-  - apkflash.com # Location Verification. APKCombo Official Website.
+  - +.apkcombo.app # Location Verification. APKCombo Official Website.
+  - +.apkflash.com # Location Verification. APKCombo Official Website.
   - cdn.apkflash.net # Location Verification. Software Resources Downloading.
   - cdn.androidcombo.com # Location Verification. Software Resources Downloading.
   # f-droid
-  - f-droid.org # F-Droid Official Website.
+  - +.f-droid.org # F-Droid Official Website.
   - ftp.agdsn.de # F-Droid's repository mirror.
   - ftp.fau.de # F-Droid's repository mirror.
   - ftp.gwdg.de # F-Droid's repository mirror.
@@ -90,25 +90,24 @@ payload:
   # navicat
   - download3.navicat.com # Navicat Premium Software Updating. Blocked by something for unknown reason.
   # spacedesk
-  - spacedesk.net # Spacedesk Official Website, by datronicsoft. Took too long to respond for unknown reason.
-  - www.spacedesk.net # Spacedesk Official Website, by datronicsoft. Took too long to respond for unknown reason.
+  - +.spacedesk.net # Spacedesk Official Website, by datronicsoft. Took too long to respond for unknown reason.
   # /*Tool*/
   # deepseek
   - chat.deepseek.com
   # dnsLeakTest
-  - browserleaks.com
-  - browserleaks.net
-  - browserleaks.org
-  - dnsleaktest.com
-  - ipleak.net
-  - surfsharkdns.com
+  - +.browserleaks.com
+  - +.browserleaks.net
+  - +.browserleaks.org
+  - +.dnsleaktest.com
+  - +.ipleak.net
+  - +.surfsharkdns.com
   # follow
   - api.follow.is # Resources Loading.
   - openpanel.follow.is # Resources Loading.
   - webp.follow.is # Image Resources Loading.
   # hstock
   - hstock.s3.eu-central-1.amazonaws.com # Image Resources Loading.
-  - hstock.org # Hstock Official Website.
+  - +.hstock.org # Hstock Official Website.
   # letsenhance
   - cdn.images.letsenhance.io # Image Downloading.
   # proxy/vpnDetection
@@ -116,17 +115,17 @@ payload:
   - proxy.incolumitas.com
   # sms-active
   - smsactivate.s3.eu-central-1.amazonaws.com # Image Resources Loading.
-  - sms-activate.io # SMS-Active Official Website.
-  - sms-activate.guru # SMS-Active Official Website.
+  - +.sms-activate.io # SMS-Active Official Website.
+  - +.sms-activate.guru # SMS-Active Official Website.
   # unofficialTwitterResourcesDownloader
-  - savetwitter.net # Website Resources Loading.
-  - twcdn.xyz # Image & Video Downloading.
+  - +.savetwitter.net # Website Resources Loading.
+  - +.twcdn.xyz # Image & Video Downloading.
   # v2rayseNodeTool
-  - v2rayse.com # Currently Blocked by a firewall you may know.
+  - +.v2rayse.com # Currently Blocked by a firewall you may know.
   # /*Wiki*/
-  - hiddifynext.com # Hiddify Official Website. Some ISP blocked this domain.
+  - +.hiddifynext.com # Hiddify Official Website. Some ISP blocked this domain.
   - matsuridayo.github.io # Matsuridayo's Official Website. Matsuridayo, a githuber who developed the "nekoray" software. Some ISP blocked this domain.
   - wiki.metacubex.one # Mihomo Official Wiki. Currently Blocked by a firewall you may know.
-  - v2raya.org # v2rayA Official Wiki. Took too long to respond for unknown reason.
+  - +.v2raya.org # v2rayA Official Wiki. Took too long to respond for unknown reason.
   # vocaloidDatabase
-  - vocadb.net # Official Vocaloid Database.
+  - +.vocadb.net # Official Vocaloid Database.
