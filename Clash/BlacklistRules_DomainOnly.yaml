@@ -111,8 +111,8 @@ payload:
   # letsenhance
   - cdn.images.letsenhance.io # Image Downloading.
   # proxy/vpnDetection
-  - proxy.888005.xyz
-  - proxy.incolumitas.com
+  - +.proxy.888005.xyz
+  - +.proxy.incolumitas.com
   # sms-active
   - smsactivate.s3.eu-central-1.amazonaws.com # Image Resources Loading.
   - +.sms-activate.io # SMS-Active Official Website.
