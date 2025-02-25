@@ -87,6 +87,8 @@ payload:
   # steam
   - store.fastly.steamstatic.com # Webpage Loading.
   # /*SoftwareProvider*/
+  # datronicsoft
+  - +.datronicsoft.de # Some ISP blocked this domain.
   # navicat
   - download3.navicat.com # Navicat Premium Software Updating. Blocked by something for unknown reason.
   # spacedesk
