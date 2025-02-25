@@ -32,6 +32,8 @@ payload:
   - cdn.apkflash.net # Location Verification. Software Resources Downloading.
   - cdn.androidcombo.com # Location Verification. Software Resources Downloading.
   # /*SoftwareProvider*/
+  # datronicsoft
+  - +.datronicsoft.de # Some ISP blocked this domain.
   # navicat
   - download3.navicat.com # Navicat Premium Software Updating. Blocked by something for unknown reason.
   # spacedesk
