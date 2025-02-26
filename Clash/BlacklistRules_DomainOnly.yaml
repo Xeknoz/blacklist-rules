@@ -60,6 +60,8 @@ payload:
   - +.shazam.com # Recognize music nearby.
   # colamanga
   - +.colamanga.com # A comic sharing website. Unlock some invisible resources.
+  # z-library
+  - +.z-library.sk # A book sharing website. Blocked by something for unknown reason.
   # /*NetworkProvider*/
   # domesticToOverseaService - as you see, chicken farms
   - +.bityun.co
