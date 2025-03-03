@@ -10,6 +10,8 @@ payload:
   - h5games.usercontent.goog # Google Play Games. Image Resources Loading.
   # mozilla
   - addons.mozilla.org # Some extension is not available in some region.
+  - api.accounts.firefox.com # Account login system for firefox. Maybe some ISP blocked this domain.
+  - profile.accounts.firefox.com # Account login system for firefox. Maybe some ISP blocked this domain.
   # visualstudiocode
   - gallerycdn.vsassets.io # Extension Resources Downloading. Some ISP blocked this domain.
   # /*Blog*/
