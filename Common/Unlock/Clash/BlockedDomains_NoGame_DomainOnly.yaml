@@ -10,10 +10,10 @@ payload:
   - h5games.usercontent.goog # Google Play Games. Image Resources Loading.
   # mozilla
   - addons.mozilla.org # Some extension is not available in some region.
-  - api.accounts.firefox.com # Account login system for firefox. Maybe some ISP blocked this domain.
-  - oauth.accounts.firefox.com # Account login system for firefox. Maybe some ISP blocked this domain.
-  - profile.accounts.firefox.com # Account login system for firefox. Maybe some ISP blocked this domain.
-  - sync-1-us-west1-g.sync.services.mozilla.com # Account login system for firefox. Maybe some ISP blocked this domain.
+  - api.accounts.firefox.com # Account login system for firefox. Took too long to respond for unknown reason sometimes.
+  - detectportal.firefox.com # To detect captive portals on public wifi networks. Took too long to respond for unknown reason sometimes.
+  - graphql.accounts.firefox.com # Account login system for firefox. Took too long to respond for unknown reason sometimes.
+  - oauth.accounts.firefox.com # Account login system for firefox. Took too long to respond for unknown reason sometimes.
   # visualstudiocode
   - gallerycdn.vsassets.io # Extension Resources Downloading. Some ISP blocked this domain.
   # /*Blog*/
