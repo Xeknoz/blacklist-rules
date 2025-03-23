@@ -1,13 +1,16 @@
-# 📜 blacklist-rules  
-**🌐 Select your Language: English | [简体中文](README_CN.md)**  
+# 📜 blacklist-rules
 
-## 🎤 Introduction  
-Rules for directing outbound packets.  
-Available for Clash & Stash clients.  
-  
-**Update frequency**: *anytime*.  
+**🌐 Select your Language: English | [简体中文](README_CN.md)**
 
-## 🎲 Choose your TYPE  
+## 🎤 Introduction
+
+Rules for directing outbound packets.
+Available for Clash & Stash clients.
+
+**Update frequency**: *anytime*.
+
+## 🎲 Choose your TYPE
+
 <table>
   <tr align="center">
     <td>
@@ -37,12 +40,12 @@ Available for Clash & Stash clients.
     </td>
     <td>
       <a href="https://raw.githubusercontent.com/Xeknoz/blacklist-rules/main/Common/Boost/Clash/SlowDomains_NoGame_DomainOnly.yaml">No game & Domain Only</a>
-      &nbsp;/<br>
+       /<br>
       <a href="https://raw.githubusercontent.com/Xeknoz/blacklist-rules/main/Common/Boost/Clash/SlowDomains_GameOnly_DomainOnly.yaml">Game Only & Domain Only</a>
     </td>
     <td>
       <a href="https://fastly.jsdelivr.net/gh/Xeknoz/blacklist-rules@main/Common/Boost/Clash/SlowDomains_NoGame_DomainOnly.yaml">No game & Domain Only</a>
-      &nbsp;/<br>
+       /<br>
       <a href="https://fastly.jsdelivr.net/gh/Xeknoz/blacklist-rules@main/Common/Boost/Clash/SlowDomains_GameOnly_DomainOnly.yaml">Game Only & Domain Only</a>
     </td>
   </tr>
@@ -52,12 +55,12 @@ Available for Clash & Stash clients.
     </td>
     <td>
       <a href="https://raw.githubusercontent.com/Xeknoz/blacklist-rules/main/Common/Security/Clash/AnonymityService_DomainOnly.yaml">Domain Only</a>
-      &nbsp;/&nbsp;
+       / 
       <a href="https://raw.githubusercontent.com/Xeknoz/blacklist-rules/main/Common/Security/Clash/AnonymityService_ProcessNameOnly.yaml">Process Name Only</a>
     </td>
     <td>
       <a href="https://fastly.jsdelivr.net/gh/Xeknoz/blacklist-rules@main/Common/Security/Clash/AnonymityService_DomainOnly.yaml">Domain Only</a>
-      &nbsp;/&nbsp;
+       / 
       <a href="https://fastly.jsdelivr.net/gh/Xeknoz/blacklist-rules@main/Common/Security/Clash/AnonymityService_ProcessNameOnly.yaml">Process Name Only</a>
     </td>
   </tr>
@@ -67,12 +70,12 @@ Available for Clash & Stash clients.
     </td>
     <td>
       <a href="https://raw.githubusercontent.com/Xeknoz/blacklist-rules/main/Common/Unlock/Clash/BlockedDomains_NoGame_DomainOnly.yaml">No game & Domain Only</a>
-      &nbsp;/<br>
+       /<br>
       <a href="https://raw.githubusercontent.com/Xeknoz/blacklist-rules/main/Common/Unlock/Clash/BlockedGames_DomainOnly.yaml">Game Only & Domain Only</a>
     </td>
     <td>
       <a href="https://fastly.jsdelivr.net/gh/Xeknoz/blacklist-rules@main/Common/Unlock/Clash/BlockedDomains_NoGame_DomainOnly.yaml">No game & Domain Only</a>
-      &nbsp;/<br>
+       /<br>
       <a href="https://fastly.jsdelivr.net/gh/Xeknoz/blacklist-rules@main/Common/Unlock/Clash/BlockedGames_DomainOnly.yaml">Game Only & Domain Only</a>
     </td>
   </tr>

@@ -1,13 +1,16 @@
-# 📜 自定义规则  
-**🌐 语言选择：[English](README.md)  | 简体中文**  
+# 📜 自定义规则
 
-## 🎤 项目介绍  
-用于进行出站分流的规则。  
-适用于Clash与Stash客户端。  
+**🌐 语言选择：[English](README.md)  | 简体中文**
 
-**更新频率**：任何时候。  
+## 🎤 项目介绍
 
-## 🎲 选择您的类型  
+用于进行出站分流的规则。
+适用于Clash与Stash客户端。
+
+**更新频率**：任何时候。
+
+## 🎲 选择您的类型
+
 <table>
   <tr align="center">
     <td>
@@ -37,12 +40,12 @@
     </td>
     <td>
       <a href="https://raw.githubusercontent.com/Xeknoz/blacklist-rules/main/Common/Boost/Clash/SlowDomains_NoGame_DomainOnly.yaml">排除游戏且仅域名</a>
-      &nbsp;/<br>
+       /<br>
       <a href="https://raw.githubusercontent.com/Xeknoz/blacklist-rules/main/Common/Boost/Clash/SlowDomains_GameOnly_DomainOnly.yaml">仅游戏且仅域名</a>
     </td>
     <td>
       <a href="https://fastly.jsdelivr.net/gh/Xeknoz/blacklist-rules@main/Common/Boost/Clash/SlowDomains_NoGame_DomainOnly.yaml">排除游戏且仅域名</a>
-      &nbsp;/<br>
+       /<br>
       <a href="https://fastly.jsdelivr.net/gh/Xeknoz/blacklist-rules@main/Common/Boost/Clash/SlowDomains_GameOnly_DomainOnly.yaml">仅游戏且仅域名</a>
     </td>
   </tr>
@@ -52,12 +55,12 @@
     </td>
     <td>
       <a href="https://raw.githubusercontent.com/Xeknoz/blacklist-rules/main/Common/Security/Clash/AnonymityService_DomainOnly.yaml">仅域名</a>
-      &nbsp;/&nbsp;
+       / 
       <a href="https://raw.githubusercontent.com/Xeknoz/blacklist-rules/main/Common/Security/Clash/AnonymityService_ProcessNameOnly.yaml">仅程序名</a>
     </td>
     <td>
       <a href="https://fastly.jsdelivr.net/gh/Xeknoz/blacklist-rules@main/Common/Security/Clash/AnonymityService_DomainOnly.yaml">仅域名</a>
-      &nbsp;/&nbsp;
+       / 
       <a href="https://fastly.jsdelivr.net/gh/Xeknoz/blacklist-rules@main/Common/Security/Clash/AnonymityService_ProcessNameOnly.yaml">仅程序名</a>
     </td>
   </tr>
@@ -67,12 +70,12 @@
     </td>
     <td>
       <a href="https://raw.githubusercontent.com/Xeknoz/blacklist-rules/main/Common/Unlock/Clash/BlockedDomains_NoGame_DomainOnly.yaml">排除游戏且仅域名</a>
-      &nbsp;/<br>
+       /<br>
       <a href="https://raw.githubusercontent.com/Xeknoz/blacklist-rules/main/Common/Unlock/Clash/BlockedGames_DomainOnly.yaml">仅游戏且仅域名</a>
     </td>
     <td>
       <a href="https://fastly.jsdelivr.net/gh/Xeknoz/blacklist-rules@main/Common/Unlock/Clash/BlockedDomains_NoGame_DomainOnly.yaml">排除游戏且仅域名</a>
-      &nbsp;/<br>
+       /<br>
       <a href="https://fastly.jsdelivr.net/gh/Xeknoz/blacklist-rules@main/Common/Unlock/Clash/BlockedGames_DomainOnly.yaml">仅游戏且仅域名</a>
     </td>
   </tr>
