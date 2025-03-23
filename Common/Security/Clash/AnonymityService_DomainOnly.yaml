@@ -1,31 +1,31 @@
 payload:
   # /*Blog*/
   # acggw
-  - acggw.club # A blog for sharing comic & game resources.
+  - +.acggw.club # A blog for sharing comic & game resources.
   # /*CloudStorage*/
   # buzzheavier
-  - buzzheavier.com # The index of this website.
+  - +.buzzheavier.com # The index of this website.
   # /*NetworkProvider*/
   # domesticToOverseaService - as you see, chicken farms
-  - bityun.co
-  - tntyun.xyz
-  - tntv2.shop
-  - justmysocks2.net
+  - +.bityun.co
+  - +.tntyun.xyz
+  - +.tntv2.shop
+  - +.justmysocks2.net
   - board.fmta.boo
   - amz.fmta.boo
   - smart.fmta.boo
   - my.recmata.net
-  - nordcdn.com
+  - +.nordcdn.com
   # /*Tool*/
   # deepseek
   - chat.deepseek.com
   # dnsLeakTest
-  - browserleaks.com
-  - browserleaks.net
-  - browserleaks.org
-  - dnsleaktest.com
-  - ipleak.net
-  - surfsharkdns.com
+  - +.browserleaks.com
+  - +.browserleaks.net
+  - +.browserleaks.org
+  - +.dnsleaktest.com
+  - +.ipleak.net
+  - +.surfsharkdns.com
   # proxy/vpnDetection
-  - proxy.888005.xyz
-  - proxy.incolumitas.com
+  - +.proxy.888005.xyz
+  - +.proxy.incolumitas.com
