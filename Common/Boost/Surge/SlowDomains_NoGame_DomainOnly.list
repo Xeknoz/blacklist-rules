@@ -1,37 +1,36 @@
-
 # /*ApplicationService*/
 # jotform
-jotform.com # Free Online Form Builder & Form Creator(described by Official Website).
+DOMAIN-SUFFIX,jotform.com # Free Online Form Builder & Form Creator(described by Official Website).
 # /*Forum*/
 # linuxdo
-linux.do # LINUX DO Official Website.
+DOMAIN-SUFFIX,linux.do # LINUX DO Official Website.
 # /*SoftwareMarket*/
 # f-droid
-f-droid.org # F-Droid Official Website.
-ftp.agdsn.de # F-Droid's repository mirror.
-ftp.fau.de # F-Droid's repository mirror.
-ftp.gwdg.de # F-Droid's repository mirror.
-mirror.kumi.systems # F-Droid's repository mirror.
+DOMAIN-SUFFIX,f-droid.org # F-Droid Official Website.
+DOMAIN,ftp.agdsn.de # F-Droid's repository mirror.
+DOMAIN,ftp.fau.de # F-Droid's repository mirror.
+DOMAIN,ftp.gwdg.de # F-Droid's repository mirror.
+DOMAIN,mirror.kumi.systems # F-Droid's repository mirror.
 mirror.ossplanet.net # F-Droid's repository mirror.
 # steam
-store.fastly.steamstatic.com # Webpage Loading.
+DOMAIN,store.fastly.steamstatic.com # Webpage Loading.
 # /*Tool*/
 # follow
-api.follow.is # Resources Loading.
-openpanel.follow.is # Resources Loading.
-webp.follow.is # Image Resources Loading.
+DOMAIN,api.follow.is # Resources Loading.
+DOMAIN,openpanel.follow.is # Resources Loading.
+DOMAIN,webp.follow.is # Image Resources Loading.
 # hstock
-hstock.s3.eu-central-1.amazonaws.com # Image Resources Loading.
-hstock.org # Hstock Official Website.
+DOMAIN-SUFFIX,hstock.s3.eu-central-1.amazonaws.com # Image Resources Loading.
+DOMAIN,hstock.org # Hstock Official Website.
 # letsenhance
-cdn.images.letsenhance.io # Image Downloading.
+DOMAIN,cdn.images.letsenhance.io # Image Downloading.
 # sms-active
-smsactivate.s3.eu-central-1.amazonaws.com # Image Resources Loading.
-sms-activate.io # SMS-Active Official Website.
-sms-activate.guru # SMS-Active Official Website.
+DOMAIN,smsactivate.s3.eu-central-1.amazonaws.com # Image Resources Loading.
+DOMAIN-SUFFIX,sms-activate.io # SMS-Active Official Website.
+DOMAIN-SUFFIX,sms-activate.guru # SMS-Active Official Website.
 # unofficialTwitterResourcesDownloader
-savetwitter.net # Website Resources Loading.
-twcdn.xyz # Image & Video Downloading.
+DOMAIN-SUFFIX,savetwitter.net # Website Resources Loading.
+DOMAIN-SUFFIX,twcdn.xyz # Image & Video Downloading.
 # /*Wiki*/
 # vocaloidDatabase
-vocadb.net # Official Vocaloid Database.
+DOMAIN-SUFFIX,vocadb.net # Official Vocaloid Database.

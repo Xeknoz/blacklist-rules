@@ -1,30 +1,30 @@
 # /*Blog*/
 # acggw
-acggw.club # A blog for sharing comic & game resources.
+DOMAIN-SUFFIX,acggw.club # A blog for sharing comic & game resources.
 # /*CloudStorage*/
 # buzzheavier
-buzzheavier.com # The index of this website.
+DOMAIN-SUFFIX,buzzheavier.com # The index of this website.
 # /*NetworkProvider*/
 # domesticToOverseaService - as you see, chicken farms
-bityun.co
-tntyun.xyz
-tntv2.shop
-justmysocks2.net
-board.fmta.boo
-amz.fmta.boo
-smart.fmta.boo
-my.recmata.net
-nordcdn.com
+DOMAIN-SUFFIX,bityun.co
+DOMAIN-SUFFIX,tntyun.xyz
+DOMAIN-SUFFIX,tntv2.shop
+DOMAIN-SUFFIX,justmysocks2.net
+DOMAIN,board.fmta.boo
+DOMAIN,amz.fmta.boo
+DOMAIN,smart.fmta.boo
+DOMAIN,my.recmata.net
+DOMAIN-SUFFIX,nordcdn.com
 # /*Tool*/
 # deepseek
-chat.deepseek.com
+DOMAIN,chat.deepseek.com
 # dnsLeakTest
-browserleaks.com
-browserleaks.net
-browserleaks.org
-dnsleaktest.com
-ipleak.net
-surfsharkdns.com
+DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,browserleaks.net
+DOMAIN-SUFFIX,browserleaks.org
+DOMAIN-SUFFIX,dnsleaktest.com
+DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,surfsharkdns.com
 # proxy/vpnDetection
-proxy.888005.xyz
-proxy.incolumitas.com
+DOMAIN-SUFFIX,proxy.888005.xyz
+DOMAIN-SUFFIX,proxy.incolumitas.com

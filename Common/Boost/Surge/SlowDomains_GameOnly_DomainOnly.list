@@ -1,17 +1,17 @@
 # cravesaga
-gg-client-w.crave-saga.net # Game Resources Loading.
-gg-resource.crave-saga.net # Game Resources Loading.
-gg-server.crave-saga.net # Game Resources Loading.
+DOMAIN,gg-client-w.crave-saga.net # Game Resources Loading.
+DOMAIN,gg-resource.crave-saga.net # Game Resources Loading.
+DOMAIN,gg-server.crave-saga.net # Game Resources Loading.
 # housamo
-elb.housamo.jp # Game Resources Loading.
+DOMAIN,elb.housamo.jp # Game Resources Loading.
 # mbga
-pazuani.net # Game Resources Loading.
+DOMAIN-SUFFIX,pazuani.net # Game Resources Loading.
 # pokemonhome
-resource.pokemon-home.com # Game Resources Loading.
-twinnrhhblenxjgd.pokemon-home.com # Game Resources Loading.
+DOMAIN,resource.pokemon-home.com # Game Resources Loading.
+DOMAIN,twinnrhhblenxjgd.pokemon-home.com # Game Resources Loading.
 # pokemonunite
-gcloud.pokemon-unitepgame.com # First Page Loading.
-image.pokemon-unitepgame.com # Image Resources Loading.
+DOMAIN,gcloud.pokemon-unitepgame.com # First Page Loading.
+DOMAIN,image.pokemon-unitepgame.com # Image Resources Loading.
 # tamacolle
-nijitama.app # Tamacolle Official Website.
-tukitama.com # Game Resources Loading.
+DOMAIN-SUFFIX,nijitama.app # Tamacolle Official Website.
+DOMAIN-SUFFIX,tukitama.com # Game Resources Loading.
