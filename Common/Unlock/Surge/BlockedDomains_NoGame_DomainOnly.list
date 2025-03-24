@@ -1,54 +1,54 @@
 # /*ApplicationService*/
 # bootstrapcdn
-DOMAIN,maxcdn.bootstrapcdn.com # A CDN platform for loading website resources. Took too long to respond for unknown reason.
+maxcdn.bootstrapcdn.com
 # captcha
-DOMAIN-SUFFIX,octocaptcha.com # Some ISP blocked this domain.
+.octocaptcha.com
 # google
-DOMAIN,cable.ua5v.com # Google Authenticator, authorize passkey by phone/tablet to login a account on another device. Currently Blocked by a firewall you may know.
-DOMAIN,enclave.ua5v.com # Same as "cable.ua5v.com".
-DOMAIN,h5games.usercontent.goog # Google Play Games. Image Resources Loading.
+cable.ua5v.com
+enclave.ua5v.com
+h5games.usercontent.goog
 # mozilla
-DOMAIN,addons.mozilla.org # Some extension is not available in some region.
-DOMAIN,api.accounts.firefox.com # Account login system for firefox. Took too long to respond for unknown reason sometimes.
-DOMAIN,detectportal.firefox.com # To detect captive portals on public wifi networks. Took too long to respond for unknown reason sometimes.
-DOMAIN,graphql.accounts.firefox.com # Account login system for firefox. Took too long to respond for unknown reason sometimes.
-DOMAIN,oauth.accounts.firefox.com # Account login system for firefox. Took too long to respond for unknown reason sometimes.
+addons.mozilla.org
+api.accounts.firefox.com
+detectportal.firefox.com
+graphql.accounts.firefox.com
+oauth.accounts.firefox.com
 # visualstudiocode
-DOMAIN,gallerycdn.vsassets.io # Extension Resources Downloading. Some ISP blocked this domain.
+gallerycdn.vsassets.io
 # /*Blog*/
 # v2rayssr
-DOMAIN-SUFFIX,v2rayssr.com # Location Verification.
+.v2rayssr.com
 # /*Forum*/
 # nodeseek
-DOMAIN-SUFFIX,nodeseek.com # Location Verification.
+.nodeseek.com
 # /*LandingPage*/
-DOMAIN,tndk0011.netlify.app # A website for advertise "Non-Imitation ~BEA[s]T FREAX 2~" album.
+tndk0011.netlify.app
 # /*Media*/
 # apple-shazam
-DOMAIN,shazam.com # Recognize music nearby.
+shazam.com
 # colamanga
-DOMAIN,colamanga.com # A comic sharing website. Unlock some invisible resources.
+colamanga.com
 # z-library
-DOMAIN-SUFFIX,z-library.sk # A book sharing website. Blocked by something for unknown reason.
+.z-library.sk
 # /*SoftwareMarket*/
 # apkcombo
-DOMAIN-SUFFIX,apkcombo.app # Location Verification. APKCombo Official Website.
-DOMAIN-SUFFIX,apkflash.com # Location Verification. APKCombo Official Website.
-DOMAIN,cdn.apkflash.net # Location Verification. Software Resources Downloading.
-DOMAIN,cdn.androidcombo.com # Location Verification. Software Resources Downloading.
+.apkcombo.app
+.apkflash.com
+cdn.apkflash.net
+cdn.androidcombo.com
 # /*SoftwareProvider*/
 # datronicsoft
-DOMAIN-SUFFIX,datronicsoft.de # Some ISP blocked this domain.
+.datronicsoft.de
 # navicat
-DOMAIN,download3.navicat.com # Navicat Premium Software Updating. Blocked by something for unknown reason.
+download3.navicat.com
 # spacedesk
-DOMAIN-SUFFIX,spacedesk.net # Spacedesk Official Website, by datronicsoft. Took too long to respond for unknown reason.
-www.spacedesk.net # Spacedesk Official Website, by datronicsoft. Took too long to respond for unknown reason.
+.spacedesk.net
+www.spacedesk.net
 # /*Tool*/
 # v2rayseNodeTool
-DOMAIN-SUFFIX,v2rayse.com # Currently Blocked by a firewall you may know.
+.v2rayse.com
 # /*Wiki*/
-DOMAIN-SUFFIX,hiddifynext.com # Hiddify Official Website. Some ISP blocked this domain.
-DOMAIN,matsuridayo.github.io # Matsuridayo's Official Website. Matsuridayo, a githuber who developed the "nekoray" software. Some ISP blocked this domain.
-DOMAIN,wiki.metacubex.one # Mihomo Official Wiki. Currently Blocked by a firewall you may know.
-DOMAIN-SUFFIX,v2raya.org # v2rayA Official Wiki. Took too long to respond for unknown reason.
+.hiddifynext.com
+matsuridayo.github.io
+wiki.metacubex.one
+.v2raya.org

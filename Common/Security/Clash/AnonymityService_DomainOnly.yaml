@@ -26,6 +26,7 @@ payload:
   - +.dnsleaktest.com
   - +.ipleak.net
   - +.surfsharkdns.com
+  - +.whoer.net
   # proxy/vpnDetection
   - +.proxy.888005.xyz
   - +.proxy.incolumitas.com

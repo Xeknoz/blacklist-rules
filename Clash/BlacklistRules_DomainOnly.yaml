@@ -50,7 +50,7 @@ payload:
   - resource.pokemon-home.com # Game Resources Loading.
   - twinnrhhblenxjgd.pokemon-home.com # Game Resources Loading.
   # pokemonmasters
-  - 3b8d4a717682c1cc5839b50bc93667cf.baas.nintendo.com # Location Verification.
+  # - 3b8d4a717682c1cc5839b50bc93667cf.baas.nintendo.com # Location Verification, but this limit has been removed.
   # pokemonunite
   - gamesvr1.pokemon-unitepgame.com # Location Verification.
   - gcloud.pokemon-unitepgame.com # First Page Loading.
@@ -110,6 +110,7 @@ payload:
   - +.dnsleaktest.com
   - +.ipleak.net
   - +.surfsharkdns.com
+  - +.whoer.net
   # follow
   - api.follow.is # Resources Loading.
   - openpanel.follow.is # Resources Loading.

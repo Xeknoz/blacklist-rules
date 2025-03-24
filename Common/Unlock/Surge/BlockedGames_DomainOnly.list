@@ -1,9 +1,9 @@
 # mariorun
-DOMAIN,api.supermariorun.com # Location Verification.
+api.supermariorun.com
 # pokemmo
-DOMAIN,loginserver.pokemmo.com # Location Verification.
-DOMAIN,loginserver.sea.pokemmo.com # Location Verification.
+loginserver.pokemmo.com
+loginserver.sea.pokemmo.com
 # pokemonmasters
-DOMAIN,3b8d4a717682c1cc5839b50bc93667cf.baas.nintendo.com # Location Verification.
+# 3b8d4a717682c1cc5839b50bc93667cf.baas.nintendo.com # Location Verification, but this limit has been removed.
 # pokemonunite
-DOMAIN,gamesvr1.pokemon-unitepgame.com # Location Verification.
+gamesvr1.pokemon-unitepgame.com
