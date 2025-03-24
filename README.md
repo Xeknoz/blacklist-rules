@@ -4,7 +4,7 @@
 
 ## 🎤 Introduction
 
-Rules for directing outbound packets.
+Rules for directing outbound packets.  
 Available for Clash / Surge clients.
 
 **Update frequency**: *anytime*.
