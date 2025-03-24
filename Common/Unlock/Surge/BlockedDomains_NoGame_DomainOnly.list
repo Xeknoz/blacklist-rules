@@ -1,54 +1,54 @@
 # /*ApplicationService*/
 # bootstrapcdn
-maxcdn.bootstrapcdn.com # A CDN platform for loading website resources. Took too long to respond for unknown reason.
+maxcdn.bootstrapcdn.com
 # captcha
-.octocaptcha.com # Some ISP blocked this domain.
+.octocaptcha.com
 # google
-cable.ua5v.com # Google Authenticator, authorize passkey by phone/tablet to login a account on another device. Currently Blocked by a firewall you may know.
-enclave.ua5v.com # Same as "cable.ua5v.com".
-h5games.usercontent.goog # Google Play Games. Image Resources Loading.
+cable.ua5v.com
+enclave.ua5v.com
+h5games.usercontent.goog
 # mozilla
-addons.mozilla.org # Some extension is not available in some region.
-api.accounts.firefox.com # Account login system for firefox. Took too long to respond for unknown reason sometimes.
-detectportal.firefox.com # To detect captive portals on public wifi networks. Took too long to respond for unknown reason sometimes.
-graphql.accounts.firefox.com # Account login system for firefox. Took too long to respond for unknown reason sometimes.
-oauth.accounts.firefox.com # Account login system for firefox. Took too long to respond for unknown reason sometimes.
+addons.mozilla.org
+api.accounts.firefox.com
+detectportal.firefox.com
+graphql.accounts.firefox.com
+oauth.accounts.firefox.com
 # visualstudiocode
-gallerycdn.vsassets.io # Extension Resources Downloading. Some ISP blocked this domain.
+gallerycdn.vsassets.io
 # /*Blog*/
 # v2rayssr
-.v2rayssr.com # Location Verification.
+.v2rayssr.com
 # /*Forum*/
 # nodeseek
-.nodeseek.com # Location Verification.
+.nodeseek.com
 # /*LandingPage*/
-tndk0011.netlify.app # A website for advertise "Non-Imitation ~BEA[s]T FREAX 2~" album.
+tndk0011.netlify.app
 # /*Media*/
 # apple-shazam
-shazam.com # Recognize music nearby.
+shazam.com
 # colamanga
-colamanga.com # A comic sharing website. Unlock some invisible resources.
+colamanga.com
 # z-library
-.z-library.sk # A book sharing website. Blocked by something for unknown reason.
+.z-library.sk
 # /*SoftwareMarket*/
 # apkcombo
-.apkcombo.app # Location Verification. APKCombo Official Website.
-.apkflash.com # Location Verification. APKCombo Official Website.
-cdn.apkflash.net # Location Verification. Software Resources Downloading.
-cdn.androidcombo.com # Location Verification. Software Resources Downloading.
+.apkcombo.app
+.apkflash.com
+cdn.apkflash.net
+cdn.androidcombo.com
 # /*SoftwareProvider*/
 # datronicsoft
-.datronicsoft.de # Some ISP blocked this domain.
+.datronicsoft.de
 # navicat
-download3.navicat.com # Navicat Premium Software Updating. Blocked by something for unknown reason.
+download3.navicat.com
 # spacedesk
-.spacedesk.net # Spacedesk Official Website, by datronicsoft. Took too long to respond for unknown reason.
-www.spacedesk.net # Spacedesk Official Website, by datronicsoft. Took too long to respond for unknown reason.
+.spacedesk.net
+www.spacedesk.net
 # /*Tool*/
 # v2rayseNodeTool
-.v2rayse.com # Currently Blocked by a firewall you may know.
+.v2rayse.com
 # /*Wiki*/
-.hiddifynext.com # Hiddify Official Website. Some ISP blocked this domain.
-matsuridayo.github.io # Matsuridayo's Official Website. Matsuridayo, a githuber who developed the "nekoray" software. Some ISP blocked this domain.
-wiki.metacubex.one # Mihomo Official Wiki. Currently Blocked by a firewall you may know.
-.v2raya.org # v2rayA Official Wiki. Took too long to respond for unknown reason.
+.hiddifynext.com
+matsuridayo.github.io
+wiki.metacubex.one
+.v2raya.org
