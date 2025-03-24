@@ -110,6 +110,7 @@ payload:
   - +.dnsleaktest.com
   - +.ipleak.net
   - +.surfsharkdns.com
+  - +.whoer.net
   # follow
   - api.follow.is # Resources Loading.
   - openpanel.follow.is # Resources Loading.
