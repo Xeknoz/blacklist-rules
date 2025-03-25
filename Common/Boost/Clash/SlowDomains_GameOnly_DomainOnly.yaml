@@ -7,6 +7,10 @@ payload:
   - elb.housamo.jp # Game Resources Loading.
   # mbga
   - +.pazuani.net # Game Resources Loading.
+  # pjsekai
+  - game-version.sekai.colorfulpalette.org # Game version check.
+  - production-cf2d2388-assetbundle-info.sekai.colorfulpalette.org # Game Resources Loading.
+  - production-game-api.sekai.colorfulpalette.org # Game Resources Loading.
   # pokemonhome
   - resource.pokemon-home.com # Game Resources Loading.
   - twinnrhhblenxjgd.pokemon-home.com # Game Resources Loading.
