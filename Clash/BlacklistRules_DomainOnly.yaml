@@ -44,8 +44,10 @@ payload:
   # mbga
   - +.pazuani.net # Game Resources Loading.
   # pjsekai
+  - app.adjust.world # Game Scene Switching.
   - game-version.sekai.colorfulpalette.org # Game version check.
   - production-cf2d2388-assetbundle-info.sekai.colorfulpalette.org # Game Resources Loading.
+  - production-cf2d2388-assetbundle.sekai.colorfulpalette.org # Game Resources Loading.
   - production-game-api.sekai.colorfulpalette.org # Game Resources Loading.
   # pokemmo
   - loginserver.pokemmo.com # Location Verification.
