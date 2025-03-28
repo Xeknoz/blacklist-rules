@@ -11,7 +11,7 @@
 
 ### ℹ️ 注意事项
 
-**为了能够正常调用 `Bluesky`.list 文件，`behavior` 属性应为 `DOMAIN-SET` 字项。**
+**为了能够正常调用 `Bluesky.list` 文件，`behavior` 属性应为 `DOMAIN-SET` 字项。**
 
 ### 📝 示例代码
 
