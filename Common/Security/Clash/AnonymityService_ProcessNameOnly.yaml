@@ -2,3 +2,5 @@ payload:
   # /*ApplicationService*/
   # torbrowser-windows
   - PROCESS-NAME,lyrebird.exe # A browser you may know.
+  # torbrowser-android
+  - PROCESS-NAME,org.torproject.torbrowser # A browser you may know.
