@@ -1,3 +1,5 @@
 # /*ApplicationService*/
 # torbrowser-windows
 PROCESS-NAME,lyrebird.exe
+# torbrowser-android
+PROCESS-NAME,org.torproject.torbrowser
