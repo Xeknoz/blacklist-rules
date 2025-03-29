@@ -16,6 +16,8 @@ api.accounts.firefox.com
 detectportal.firefox.com
 graphql.accounts.firefox.com
 oauth.accounts.firefox.com
+# surveycake
+.surveycake.com
 # visualstudiocode
 gallerycdn.vsassets.io
 # /*Blog*/
