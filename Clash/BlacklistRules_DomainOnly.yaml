@@ -96,7 +96,7 @@ payload:
   - cdn.apkflash.net # Location Verification. Software Resources Downloading.
   - cdn.androidcombo.com # Location Verification. Software Resources Downloading.
   # erolab
-  - ero-labs.com # EROLAB - Online Adult Games.
+  - +.ero-labs.com # EROLAB - Online Adult Games.
   # f-droid
   - +.f-droid.org # F-Droid Official Website.
   - ftp.agdsn.de # F-Droid's repository mirror.
