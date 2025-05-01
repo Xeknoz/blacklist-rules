@@ -1,8 +1,11 @@
 payload:
-  # cravesaga
+  # cravesaga-jp
   - gg-client-w.crave-saga.net # Game Resources Loading.
   - gg-resource.crave-saga.net # Game Resources Loading.
   - gg-server.crave-saga.net # Game Resources Loading.
+  # cravesaga-tw
+  - d1nuibj2c6a6xf.cloudfront.net # Game Resources Loading.
+  - d2nk6ypjbnrzgg.cloudfront.net # Game Resources Loading.
   # housamo
   - elb.housamo.jp # Game Resources Loading.
   # mbga
