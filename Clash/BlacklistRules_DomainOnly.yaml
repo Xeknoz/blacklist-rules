@@ -35,6 +35,8 @@ payload:
   # nodeseek
   - +.nodeseek.com # Location Verification.
   # /*Game*/
+  # cooking mama: let's cook!
+  - assets.app-ofcr.net # Location Verification.
   # cravesaga-jp
   - gg-client-w.crave-saga.net # Game Resources Loading.
   - gg-resource.crave-saga.net # Game Resources Loading.
