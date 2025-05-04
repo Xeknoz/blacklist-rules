@@ -8,5 +8,5 @@ payload:
   # - 3b8d4a717682c1cc5839b50bc93667cf.baas.nintendo.com # Location Verification, but this limit has been removed.
   # pokemonunite
   - gamesvr1.pokemon-unitepgame.com # Location Verification.
-  # Cooking Mama: Let's cook!
+  # cooking mama: let's cook!
   - assets.app-ofcr.net # Location Verification.
