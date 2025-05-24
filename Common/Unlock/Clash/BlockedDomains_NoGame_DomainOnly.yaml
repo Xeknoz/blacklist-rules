@@ -19,6 +19,8 @@ payload:
   - +.surveycake.com # A website for taking surveys. Currently Blocked by a firewall you may know, maybe.
   # visualstudiocode
   - gallerycdn.vsassets.io # Extension Resources Downloading. Some ISP blocked this domain.
+  # zettlr
+  - +.zettlr.com # Currently Blocked by a firewall you may know.
   # /*Blog*/
   # v2rayssr
   - +.v2rayssr.com # Location Verification.
