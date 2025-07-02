@@ -74,12 +74,14 @@ payload:
   - +.nijitama.app # Tamacolle Official Website.
   - +.tukitama.com # Game Resources Loading.
   # /*LandingPage*/
-  - tndk0011.netlify.app # A website for advertise "Non-Imitation ~BEA[s]T FREAX 2~" album.
+  - tndk0011.netlify.app # A website for advertising "Non-Imitation ~BEA[s]T FREAX 2~" album.
   # /*Media*/
   # apple-shazam
   - +.shazam.com # Recognize music nearby.
   # colamanga
   - +.colamanga.com # A comic sharing website. Unlock some invisible resources.
+  # instalker
+  - instalker.org # A website for fetching twitter posts.
   # z-library
   - +.z-library.sk # A book sharing website. Blocked by something for unknown reason.
   # /*NetworkProvider*/
