@@ -35,7 +35,7 @@ payload:
   # colamanga
   - +.colamanga.com # A comic sharing website. Unlock some invisible resources.
   # instalker
-  - instalker.org # A website for fetching twitter posts.
+  - +.instalker.org # A website for fetching twitter posts.
   # z-library
   - +.z-library.sk # A book sharing website. Blocked by something for unknown reason.
   # /*SoftwareMarket*/
