@@ -5,6 +5,9 @@ payload:
   # /*Forum*/
   # linuxdo
   - +.linux.do # LINUX DO Official Website.
+  # /*Media*/
+  # wallheaven
+  - +.wallheaven.cc # A website for getting wallpapers.
   # /*SoftwareMarket*/
   # f-droid
   - +.f-droid.org # F-Droid Official Website.
