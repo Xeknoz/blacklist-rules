@@ -2,9 +2,6 @@ payload:
   # /*ApplicationService*/
   # jotform
   - +.jotform.com # Free Online Form Builder & Form Creator(described by Official Website).
-  # /*Forum*/
-  # linuxdo
-  - +.linux.do # LINUX DO Official Website.
   # /*Media*/
   # wallheaven
   - +.wallheaven.cc # A website for getting wallpapers.
