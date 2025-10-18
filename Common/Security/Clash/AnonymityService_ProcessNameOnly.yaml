@@ -4,3 +4,7 @@ payload:
   - PROCESS-NAME,lyrebird.exe # A browser you may know.
   # torbrowser-android
   - PROCESS-NAME,org.torproject.torbrowser # A browser you may know.
+  # briar-android
+  - PROCESS-NAME,org.briarproject.briar.android # Use for tor inside.
+  # briarmailbox-android
+  - PROCESS-NAME,org.briarproject.mailbox # Use for tor inside.
