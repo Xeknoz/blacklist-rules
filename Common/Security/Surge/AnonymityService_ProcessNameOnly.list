@@ -3,3 +3,7 @@
 PROCESS-NAME,lyrebird.exe
 # torbrowser-android
 PROCESS-NAME,org.torproject.torbrowser
+# briar-android
+PROCESS-NAME,org.briarproject.briar.android
+# briarmailbox-android
+PROCESS-NAME,org.briarproject.mailbox
