@@ -80,6 +80,8 @@ payload:
   - +.colamanga.com # A comic sharing website. Unlock some invisible resources.
   # instalker
   - +.instalker.org # A website for fetching twitter posts.
+  # twicopy
+  - +.twicopy.com # A website for fetching twitter posts.
   # wallheaven
   - +.wallheaven.cc # A website for getting wallpapers.
   # z-library
