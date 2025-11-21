@@ -115,6 +115,8 @@ payload:
   # steam
   - store.fastly.steamstatic.com # Webpage Loading.
   # /*SoftwareProvider*/
+  # bitcomet
+  - +.download.bitcomet.com # Download something by this domain.
   # datronicsoft
   - +.datronicsoft.de # Some ISP blocked this domain.
   # navicat
