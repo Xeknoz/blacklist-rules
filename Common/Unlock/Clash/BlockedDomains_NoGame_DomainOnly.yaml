@@ -49,6 +49,8 @@ payload:
   # erolab
   - +.ero-labs.com # EROLAB - Online Adult Games.
   # /*SoftwareProvider*/
+  # bitcomet
+  - +.download.bitcomet.com # Download something by this domain.
   # datronicsoft
   - +.datronicsoft.de # Some ISP blocked this domain.
   # navicat
