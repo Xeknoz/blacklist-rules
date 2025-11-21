@@ -114,6 +114,8 @@ mirror.ossplanet.net
 # steam
 store.fastly.steamstatic.com
 # /*SoftwareProvider*/
+# bitcomet
+.download.bitcomet.com
 # datronicsoft
 .datronicsoft.de
 # navicat
