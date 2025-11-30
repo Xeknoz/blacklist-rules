@@ -142,6 +142,7 @@ payload:
   # letsenhance
   - cdn.images.letsenhance.io # Image Downloading.
   # proxy/vpnDetection
+  - +.ping0.cc
   - +.proxy.888005.xyz
   - +.proxy.incolumitas.com
   # sms-active
