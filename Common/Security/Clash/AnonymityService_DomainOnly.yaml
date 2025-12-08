@@ -26,6 +26,7 @@ payload:
   - +.surfsharkdns.com
   - +.whoer.net
   # proxy/vpnDetection
+  - +.ippure.com
   - +.ping0.cc
   - +.proxy.888005.xyz
   - +.proxy.incolumitas.com
