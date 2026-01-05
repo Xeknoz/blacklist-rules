@@ -14,6 +14,7 @@ payload:
   - board.fmta.boo
   - amz.fmta.boo
   - smart.fmta.boo
+  - +.shanhai.me
   - my.recmata.net
   - +.nordcdn.com
   # /*Tool*/
